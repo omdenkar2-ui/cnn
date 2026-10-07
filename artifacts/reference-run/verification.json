@@ -1,0 +1,10 @@
+{
+  "automated_tests": 7,
+  "test_status": "passed",
+  "checkpoint_prediction_parity": "passed",
+  "metric_recalculation": "passed",
+  "cluster_split_disjointness": "passed",
+  "test_images": 30,
+  "test_accuracy": 0.8,
+  "checkpoint_bytes": 3293623
+}

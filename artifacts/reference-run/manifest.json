@@ -1,0 +1,2418 @@
+[
+  {
+    "path": "happy/05-12-21-happy-people.jpg",
+    "label": 0,
+    "input_sha256": "1aa620440eca0d8bece861c39520204743df4e76e5b2a733d3d5cba01f50cd1b",
+    "dhash": "747078f8f8f9d979",
+    "split": "train",
+    "group": 29
+  },
+  {
+    "path": "happy/07-120104-happy_people_are_not_nice_people.jpg",
+    "label": 0,
+    "input_sha256": "ec1cfb09580612a295077d543c20c589d412ceee6b2cd083331e649db5a8e34f",
+    "dhash": "cecc490d0d2f2f2b",
+    "split": "val",
+    "group": 182
+  },
+  {
+    "path": "happy/1-2.jpg",
+    "label": 0,
+    "input_sha256": "7006e45ea35eeb55851a1c27314de2231fff2af541f69ea9eac7242689ce289d",
+    "dhash": "4444444c8496969e",
+    "split": "val",
+    "group": 124
+  },
+  {
+    "path": "happy/1000_F_42220133_toAU6USGY9jVr2XJFLssfG00cSYIJ173.jpg",
+    "label": 0,
+    "input_sha256": "ea32eac1236a3525fc99425e20f95c8b2140e226b91c37854f4b2e603230f53e",
+    "dhash": "cccc94e4e6b2b222",
+    "split": "train",
+    "group": 1
+  },
+  {
+    "path": "happy/11-Habits-of-Truly-Happy-People.jpg",
+    "label": 0,
+    "input_sha256": "1de0b435958555e849109e5bc9f3897009ee50591d9e0f86b593123c3a05be25",
+    "dhash": "d7c7c6c3c2dad9f9",
+    "split": "train",
+    "group": 17
+  },
+  {
+    "path": "happy/154006829.jpg",
+    "label": 0,
+    "input_sha256": "cabb8b6e6ecf5302ff3e4177e6406d6721073e7d041844e8336c0dae173d45ea",
+    "dhash": "ceece6e7d3d1f1c2",
+    "split": "train",
+    "group": 147
+  },
+  {
+    "path": "happy/170404-happy-workers-feature.jpg",
+    "label": 0,
+    "input_sha256": "7e078ed6a0e50ca346786836704f2a740afcc5fec344b3dfdbd3741abe48dd8d",
+    "dhash": "a9a9a969e9c45633",
+    "split": "test",
+    "group": 216
+  },
+  {
+    "path": "happy/1902539.jpg",
+    "label": 0,
+    "input_sha256": "efe26a6078b075e0eda8a2a7f9821aa477d17ed7a8ad772de2fc4e07e7fbab3b",
+    "dhash": "bb9faaa2aeac0a0f",
+    "split": "val",
+    "group": 3
+  },
+  {
+    "path": "happy/1902540.jpg",
+    "label": 0,
+    "input_sha256": "7d6885ac64e68cb50df61e32ad06df83bb0f1e029ff1b912fc5b0726e7a633eb",
+    "dhash": "1e12829616551911",
+    "split": "val",
+    "group": 98
+  },
+  {
+    "path": "happy/1902587.jpg",
+    "label": 0,
+    "input_sha256": "479c2163a4cbac1347b0bf7915111bd12b418c5894a321a248df4915f179ed16",
+    "dhash": "8d4ccecb49193018",
+    "split": "val",
+    "group": 110
+  },
+  {
+    "path": "happy/1920px-face-smile.svg_.png.jpg",
+    "label": 0,
+    "input_sha256": "a1d4e9a54c4fd2d39d1fbfd7f676f86582b6e14d760c3ef334de4bbf11b1e29e",
+    "dhash": "d4f0c8c48aaaaae8",
+    "split": "test",
+    "group": 47
+  },
+  {
+    "path": "happy/1HEoLBLidT2u4mhJ0oiDgig.png",
+    "label": 0,
+    "input_sha256": "e66ad1e6d81831cc9c0c6cb2b5217dafb0e507a50b9ef4d6089861e1d957cb96",
+    "dhash": "2d65242521b1b11a",
+    "split": "val",
+    "group": 51
+  },
+  {
+    "path": "happy/227-2271622_happy-people-business-team-celebrating-png.png",
+    "label": 0,
+    "input_sha256": "2d849b1c82c57779c53d20803b62aaf19457252a7d2fdd7285feb8a8e94bbd68",
+    "dhash": "74747170f0d89886",
+    "split": "train",
+    "group": 133
+  },
+  {
+    "path": "happy/60632274._UY200_.jpg",
+    "label": 0,
+    "input_sha256": "3ac8139603d0085c89eee2cc4faecb73086de0275eccfec96a2d8c50759d57d3",
+    "dhash": "0eccf132616d6931",
+    "split": "train",
+    "group": 142
+  },
+  {
+    "path": "happy/7-Habits-of-Happy-People-image.jpeg",
+    "label": 0,
+    "input_sha256": "a813ddee8df3890127698a2633f6be0c2e53d16885dac034e189a488d7133387",
+    "dhash": "c71d6c4b5949cbe3",
+    "split": "train",
+    "group": 226
+  },
+  {
+    "path": "happy/7-principles-of-successful-and-happy-people.png",
+    "label": 0,
+    "input_sha256": "7bc4ba5aa610b48d7364bd43381952e4a2a3c70b4878663b350916082083543f",
+    "dhash": "131b129a92929190",
+    "split": "train",
+    "group": 57
+  },
+  {
+    "path": "happy/7Y57w0983emdERAoQylUHIGkoEk1cIFvPkXDbeA2lVA.jpg",
+    "label": 0,
+    "input_sha256": "8887d9f656a393b5ce3ffa5b69562a8fc0323938d2009d3a530609aa7d497bd5",
+    "dhash": "242c1e9a882af2c6",
+    "split": "train",
+    "group": 58
+  },
+  {
+    "path": "happy/8cxKy5g9i.jpg",
+    "label": 0,
+    "input_sha256": "8c94e099452b019aa64ec4c735c03e6959b2a79a2f4dbd177245d18767e44a54",
+    "dhash": "38787878d89d0504",
+    "split": "train",
+    "group": 185
+  },
+  {
+    "path": "happy/960x0.jpg",
+    "label": 0,
+    "input_sha256": "8d47c624b179450e9344ee8cb6bdf11d38894bd6349d80664d81bd1a3546e7e8",
+    "dhash": "baf2f2e2cae4e0f0",
+    "split": "val",
+    "group": 43
+  },
+  {
+    "path": "happy/_happy_jumping_on_beach-40815.jpg",
+    "label": 0,
+    "input_sha256": "4a53db921014c522da7ee83165190c6808df3deb37f1c290cf5a56a25deaf1d7",
+    "dhash": "597f7f3d7934373f",
+    "split": "train",
+    "group": 66
+  },
+  {
+    "path": "happy/A_Sep20_14_1189155141.jpg",
+    "label": 0,
+    "input_sha256": "7cf0ae2d5a690b81129946bcd302263c0319a247937c65d2fa66e72c7e4cdc20",
+    "dhash": "7272b2f2ec6c1208",
+    "split": "train",
+    "group": 96
+  },
+  {
+    "path": "happy/bigstock-Portrait-Of-Smiling-Employees-272904928-min-scaled.jpg",
+    "label": 0,
+    "input_sha256": "6e49c53e2f7b7efb68217abcc5f9b9563e8c7a014db580cc23341681f252e214",
+    "dhash": "c6c7cfeb9b9ab2c1",
+    "split": "train",
+    "group": 166
+  },
+  {
+    "path": "happy/blog_image_20180219221810890.jpg",
+    "label": 0,
+    "input_sha256": "a25e1c4fc7144aafc0fe5e3b2a760cc37099215467b05a03e66a2dc7ce36539c",
+    "dhash": "b9db9a9c9c9503ab",
+    "split": "test",
+    "group": 65
+  },
+  {
+    "path": "happy/brady-bunch-3.jpg",
+    "label": 0,
+    "input_sha256": "0cd2fc888ced31b899ae8c62878088c80d8d901d85e8a38bbf32510f0eb3a5db",
+    "dhash": "caf29cb8e4e4f072",
+    "split": "test",
+    "group": 200
+  },
+  {
+    "path": "happy/e162ccda8ce0f197f8863f327add9233.jpg",
+    "label": 0,
+    "input_sha256": "a08c6a19d0b092aca678a98d2fb7481f335119544603b731a1bed8200d801c99",
+    "dhash": "0303041c1462e303",
+    "split": "train",
+    "group": 99
+  },
+  {
+    "path": "happy/fiendship-concept-smiling-friends-communication-weekend-university-123724503.jpg",
+    "label": 0,
+    "input_sha256": "3544365b964e29423f2c5f8b178c22e28291e57e82f78add9b74d21b10269862",
+    "dhash": "6d707226a3e5c656",
+    "split": "val",
+    "group": 14
+  },
+  {
+    "path": "happy/friends-happy-190821-800x450.jpg",
+    "label": 0,
+    "input_sha256": "ef40fab17842d16aadd4b44b83254c4faa0d3c1df86732a771a907a7f66e8acb",
+    "dhash": "cbc3d59593d34b5f",
+    "split": "train",
+    "group": 9
+  },
+  {
+    "path": "happy/getty_152414899_97046097045006_68075.jpg",
+    "label": 0,
+    "input_sha256": "43ee9b9a6045e371071ceda9dfe3b909f4b71d7f9c8c664871e8b1c3dad52bfe",
+    "dhash": "bc4d4d8d954a9686",
+    "split": "train",
+    "group": 20
+  },
+  {
+    "path": "happy/getty_478389113_970647970450091_99776.jpg",
+    "label": 0,
+    "input_sha256": "e3ee1e9055fb13727b18f74a734aa2c109e8b04deaed220a51f351d7355eb477",
+    "dhash": "070f2d2d290f0707",
+    "split": "test",
+    "group": 27
+  },
+  {
+    "path": "happy/getty_494581822_130796.jpg",
+    "label": 0,
+    "input_sha256": "6873d77a98d8be94243169544e2d1e54130f16bec7534beaf0c43406bfc9b095",
+    "dhash": "82a2a1a58cc54752",
+    "split": "train",
+    "group": 103
+  },
+  {
+    "path": "happy/getty_505175324_2000131020009280246_158016.jpg",
+    "label": 0,
+    "input_sha256": "1146b9426485a1ab3568364f6322d07f3e61954008f24d6ecb8cc5cd3acdffb0",
+    "dhash": "372b232744cc8c92",
+    "split": "train",
+    "group": 60
+  },
+  {
+    "path": "happy/GettyImages-565706549-949x534.jpg",
+    "label": 0,
+    "input_sha256": "3c46cfd515aacfb7dac6ed9e09f5e9ed818298b71f409b3ec31d674bed22b189",
+    "dhash": "b331d9d999999333",
+    "split": "train",
+    "group": 206
+  },
+  {
+    "path": "happy/GettyImages-871518740-1024x707.jpg",
+    "label": 0,
+    "input_sha256": "4f58530f42856640aa7d239db6f89f0b31d778685c06728b53902e645a35069a",
+    "dhash": "53131b17673bb3a5",
+    "split": "val",
+    "group": 22
+  },
+  {
+    "path": "happy/goup-happy-people-group-jumping-isolated-white-background-35582232.jpg",
+    "label": 0,
+    "input_sha256": "59e6284e43e0e76ec6d2663f1ed6809ac16484411cf0042714f99e8a552b57fb",
+    "dhash": "33d4cccc9cf2f050",
+    "split": "train",
+    "group": 11
+  },
+  {
+    "path": "happy/group-of-happy-people-2.jpg",
+    "label": 0,
+    "input_sha256": "7336f30d965344b9ca2b39ff0ad641822f2e4fc158f42fa2fd508957e865b04c",
+    "dhash": "6deda4d6cca7c25a",
+    "split": "train",
+    "group": 211
+  },
+  {
+    "path": "happy/habits-of-happy-people-cr3.jpg",
+    "label": 0,
+    "input_sha256": "e82fd2489d6027ea677a82ce1fc4e6af6fd8a2737ed4966084c345fc17fdfee8",
+    "dhash": "2e8e8747c36b3133",
+    "split": "train",
+    "group": 213
+  },
+  {
+    "path": "happy/habits-of-happy-people.jpg",
+    "label": 0,
+    "input_sha256": "99388a9a83871e6bbe833e39cf14cea01aae38f92dd0c55d3307cd1d57ea3642",
+    "dhash": "8b8b53dc4f653d3f",
+    "split": "train",
+    "group": 229
+  },
+  {
+    "path": "happy/habits-that-define-very-happy-people.jpg",
+    "label": 0,
+    "input_sha256": "523e967198a9af6253b03709537f1e531c5004c09aa56407ea2f0d8a93af7f2e",
+    "dhash": "53c3c78f8bc7070f",
+    "split": "train",
+    "group": 79
+  },
+  {
+    "path": "happy/Happiness-Habits-10-Things-Happy-People-Do-Before-Bed.jpg",
+    "label": 0,
+    "input_sha256": "9ad17fd24a5f41454bfb8ad4a402dacb655ecf545d9a2ed66f2c03d3c9afad83",
+    "dhash": "ecccecececf03133",
+    "split": "train",
+    "group": 5
+  },
+  {
+    "path": "happy/happiness.jpg",
+    "label": 0,
+    "input_sha256": "72390bfe5b2275bc0be5165419bbb5858f75616dc399282a576c70d7568e516a",
+    "dhash": "3210162a32314141",
+    "split": "train",
+    "group": 33
+  },
+  {
+    "path": "happy/happinessa.jpg",
+    "label": 0,
+    "input_sha256": "cd2b5f3929b31ac10b95b195154110589702c253232571d74236e8a980c8380b",
+    "dhash": "0315cd440d38b0b3",
+    "split": "train",
+    "group": 49
+  },
+  {
+    "path": "happy/happy-girl-in-leaves.jpg",
+    "label": 0,
+    "input_sha256": "14395dce95c332979adeb4053559ff917f8a2abfefd78ff31361ac0e1c131218",
+    "dhash": "5b67666d17331f1d",
+    "split": "train",
+    "group": 219
+  },
+  {
+    "path": "happy/happy-people-1024x768.jpeg",
+    "label": 0,
+    "input_sha256": "cf3b48f8ae98c80380bf70b3f9669e01d524f028b97a6bfc190c0b0610cd5ceb",
+    "dhash": "83e2433262e5e4b0",
+    "split": "train",
+    "group": 183
+  },
+  {
+    "path": "happy/happy-people-13772392.jpg",
+    "label": 0,
+    "input_sha256": "5ea6f0b6bb4896d26a7787464d36d00246229f19d296eda33eef8e7a6d309910",
+    "dhash": "dbdbd3e3f0a2aa01",
+    "split": "train",
+    "group": 196
+  },
+  {
+    "path": "happy/happy-people-14410042.jpg",
+    "label": 0,
+    "input_sha256": "d9a894342dd54445a55da7657984a77b76fa73e8c1d438d9437a8ab883a26343",
+    "dhash": "94b0b2bab2b2e808",
+    "split": "val",
+    "group": 59
+  },
+  {
+    "path": "happy/happy-people-702x336.jpg",
+    "label": 0,
+    "input_sha256": "8fe1c1ce3d0297996ecb92589f54508d2a7b509ba8e33ea3737ec1319e176c65",
+    "dhash": "c7c6b63736369e0d",
+    "split": "train",
+    "group": 162
+  },
+  {
+    "path": "happy/Happy-people-800x533.jpg",
+    "label": 0,
+    "input_sha256": "91d942fbac8cbc3fa7f0e2563b9894dce61de764152266fd2a7195bfa935475e",
+    "dhash": "beb696c6d24e5691",
+    "split": "train",
+    "group": 76
+  },
+  {
+    "path": "happy/happy-people-black-and-white-720x360.jpg",
+    "label": 0,
+    "input_sha256": "d54a64f431b36ba836c217fef860b5b2c8991fe4dc896d61a8b20104d4acdf21",
+    "dhash": "6325a5a5a585a121",
+    "split": "val",
+    "group": 67
+  },
+  {
+    "path": "happy/HAPPY-PEOPLE-CLUB-LOGO.jpg",
+    "label": 0,
+    "input_sha256": "842c84d0bf3d083cc417ac86411c1756ba4bbfdfaabb5333eaa74c16cf598d24",
+    "dhash": "043269c4b8792400",
+    "split": "test",
+    "group": 149
+  },
+  {
+    "path": "happy/happy-people-group-fb.jpg",
+    "label": 0,
+    "input_sha256": "97b32c9030dfff7ca1b6ef07f207d333e34c6029f45848a4acd8a2675ac149ef",
+    "dhash": "dfaa9a34325bbbfe",
+    "split": "train",
+    "group": 215
+  },
+  {
+    "path": "happy/Happy-people-raise-happy-kids-raise-yourself-first.jpg",
+    "label": 0,
+    "input_sha256": "e0eb6ac4daa12602eefb6ce075d8266d83828b30f75928fa0186e694d33a349b",
+    "dhash": "32278f8f1d1c1e2f",
+    "split": "train",
+    "group": 87
+  },
+  {
+    "path": "happy/happy-people-vector-29209040.jpg",
+    "label": 0,
+    "input_sha256": "f9ffb6b0d235fbc353940c1d127064d140f68ce2b0cfb757851a274097e11c84",
+    "dhash": "6100c4d4d0923000",
+    "split": "train",
+    "group": 95
+  },
+  {
+    "path": "happy/happy-people-vector-839522.jpg",
+    "label": 0,
+    "input_sha256": "c1571b3c19c6564f5576489e855e551a9dbc4a0c5d0d795c7c965b05d5c2a211",
+    "dhash": "6101b0b2eceee200",
+    "split": "train",
+    "group": 25
+  },
+  {
+    "path": "happy/happy-people.jpg",
+    "label": 0,
+    "input_sha256": "f97d4b6f2c5f10b723c7a04da0382c10432e54b39b29cd92a8d2dc18672f0ca1",
+    "dhash": "98d8d8c8dca43400",
+    "split": "train",
+    "group": 188
+  },
+  {
+    "path": "happy/happy-people21.jpg",
+    "label": 0,
+    "input_sha256": "840d20c3f914b6697db3fa31e8bb6ddb91f5cadfa290477033d213099086d9d4",
+    "dhash": "252d252d29090f0f",
+    "split": "test",
+    "group": 10
+  },
+  {
+    "path": "happy/happy-people_1463241208.jpg",
+    "label": 0,
+    "input_sha256": "61120594a68e9a432a22776623d89bba47899ebf87f5650b64ba2d43f0c84311",
+    "dhash": "536369e9c5e5ec6c",
+    "split": "train",
+    "group": 24
+  },
+  {
+    "path": "happy/happy-person.jpeg",
+    "label": 0,
+    "input_sha256": "847d8c577586edcf2cc005f623a14bf54b4a54c35a8d35c3a1f582d53587e286",
+    "dhash": "0963460f3727a5cc",
+    "split": "train",
+    "group": 21
+  },
+  {
+    "path": "happy/happy-woman-in-nature-at-sunset.jpg",
+    "label": 0,
+    "input_sha256": "00d70204f31f7e2a26df3067f0d406fe82ff53a9fbdbd9135e5707d3464a192e",
+    "dhash": "3f3c3c3d1d1c1e1b",
+    "split": "train",
+    "group": 54
+  },
+  {
+    "path": "happy/Happy_People_Happy_Man.jpg",
+    "label": 0,
+    "input_sha256": "21e9fbc20a8373fedaae322254047e35944aa7cb0c62466ec2183f101a379772",
+    "dhash": "3161616966646471",
+    "split": "train",
+    "group": 212
+  },
+  {
+    "path": "happy/happypeople-1024x679.jpg",
+    "label": 0,
+    "input_sha256": "017bf8895b0116c181ed1d59e9f858aa84c99ea1e24d45e86a65989cea7cc31a",
+    "dhash": "000f0e9a9a971f0f",
+    "split": "train",
+    "group": 37
+  },
+  {
+    "path": "happy/HappyPeopleBanner.png",
+    "label": 0,
+    "input_sha256": "32df64e4ae2d02d01e4da056f09dcedcff55ef0fdef9f516ec414b2a4acefc3a",
+    "dhash": "e0c04e4e464e0e30",
+    "split": "train",
+    "group": 202
+  },
+  {
+    "path": "happy/hdptcar-fi-2.jpg",
+    "label": 0,
+    "input_sha256": "64d837d6f9af48df40f8d365952bfb9e25d8e66376b5fd28b83b89fc9cb43b49",
+    "dhash": "74f2e8ecb9f1b571",
+    "split": "train",
+    "group": 53
+  },
+  {
+    "path": "happy/how-happy-are-healthy-people.jpg",
+    "label": 0,
+    "input_sha256": "3ac582f4c9913b07113a8d94a9172077541e485118f117811da7c869a6515482",
+    "dhash": "03cbdd956feddcdb",
+    "split": "train",
+    "group": 137
+  },
+  {
+    "path": "happy/How-to-Be-Happy_1200x628-facebook.jpg",
+    "label": 0,
+    "input_sha256": "b69f50bbba9998bc7b8abe013eede94460302d1790e7f9726d22eb73f4fb6600",
+    "dhash": "c9c98b93d3caca86",
+    "split": "train",
+    "group": 181
+  },
+  {
+    "path": "happy/How_Happy_Are_People_at_Work.jpg",
+    "label": 0,
+    "input_sha256": "3ccb0d719dcabb16c5d820b53ff6e6de577f773a9022d298119023f265a31a5f",
+    "dhash": "b2b46666eee49601",
+    "split": "val",
+    "group": 222
+  },
+  {
+    "path": "happy/hqdefault.jpg",
+    "label": 0,
+    "input_sha256": "e511ec8efebeded8d5a7a45ede51a06e9d9d84a450d4dd8fdb79d65b51959fe7",
+    "dhash": "04cced0b4b483830",
+    "split": "train",
+    "group": 169
+  },
+  {
+    "path": "happy/image.jpeg",
+    "label": 0,
+    "input_sha256": "b1d3f9db31a4b190b3ea4397fafb660a0f6a8086bfd3223f66079ef587e6f52e",
+    "dhash": "001f5f1a9a93170f",
+    "split": "test",
+    "group": 129
+  },
+  {
+    "path": "happy/image10.jpeg",
+    "label": 0,
+    "input_sha256": "c548a525013d533edd2ed74738407adad0b6b639ea1639b551ba8c201389a9c6",
+    "dhash": "331313531f0f779f",
+    "split": "train",
+    "group": 116
+  },
+  {
+    "path": "happy/image11.jpeg",
+    "label": 0,
+    "input_sha256": "ab69d3262cac59a5a4067f4523fa299e3e4cb291799fba081b51698c01a0ede6",
+    "dhash": "da989eb6b7929a82",
+    "split": "train",
+    "group": 125
+  },
+  {
+    "path": "happy/image12.jpeg",
+    "label": 0,
+    "input_sha256": "0192abadf515dc359cc3def171733dff89cb6cd3568b8ca61fd3b62371fc4fc4",
+    "dhash": "000f0e9a9a971f0f",
+    "split": "train",
+    "group": 37
+  },
+  {
+    "path": "happy/image13.jpeg",
+    "label": 0,
+    "input_sha256": "0c8a9b23987d3eee6e3cd6e34023db62f46a418ac8bca39aa031b9c2e9690e46",
+    "dhash": "050512a269524303",
+    "split": "val",
+    "group": 191
+  },
+  {
+    "path": "happy/image14.jpeg",
+    "label": 0,
+    "input_sha256": "5c9763b282056be65bd4771622992ca2d35a724312b205b4638dcd1a5d8550de",
+    "dhash": "ecccecececf03133",
+    "split": "train",
+    "group": 5
+  },
+  {
+    "path": "happy/image15.jpeg",
+    "label": 0,
+    "input_sha256": "b18b735028464a68e8f29e0fd04bee5ac2ba560047a3f454d2e244cbabb0e9b2",
+    "dhash": "0963460f3727a5cc",
+    "split": "train",
+    "group": 21
+  },
+  {
+    "path": "happy/image16.jpeg",
+    "label": 0,
+    "input_sha256": "0ab91d6e855c9c7a982b605027b6d88246e4db4adef15abd05985910573774f6",
+    "dhash": "bc4d4d8d954a9686",
+    "split": "train",
+    "group": 20
+  },
+  {
+    "path": "happy/image17.jpeg",
+    "label": 0,
+    "input_sha256": "1f4ae7b4bc6d0a9233ccef0467eef7b560378d76e93400c0f8406925a94a1e80",
+    "dhash": "7455567652524a29",
+    "split": "test",
+    "group": 104
+  },
+  {
+    "path": "happy/image18.jpeg",
+    "label": 0,
+    "input_sha256": "ca69c51c0305d0d20233cd9b4bcabc75304f0df87b4d25c10f42d055cd135aab",
+    "dhash": "74f2e8ecb9f1f571",
+    "split": "train",
+    "group": 53
+  },
+  {
+    "path": "happy/image19.jpeg",
+    "label": 0,
+    "input_sha256": "d366d40dab1cdb09641210b78664726366c0c2a64ddea49996df2ac23155e75c",
+    "dhash": "bb9faaa2aeac0a0f",
+    "split": "val",
+    "group": 3
+  },
+  {
+    "path": "happy/image2.jpeg",
+    "label": 0,
+    "input_sha256": "e358bc4c65eb28e4bef14cc2e22f748e12b7b564f14407b2d125c42ce26fca99",
+    "dhash": "4949c9cedbd3f273",
+    "split": "test",
+    "group": 172
+  },
+  {
+    "path": "happy/image20.jpeg",
+    "label": 0,
+    "input_sha256": "82528b06360c376f440d08004452386452fa7d1a52d3be44c699ae5536831e29",
+    "dhash": "b9db9a989c9503ab",
+    "split": "test",
+    "group": 65
+  },
+  {
+    "path": "happy/image21.jpeg",
+    "label": 0,
+    "input_sha256": "f6da8359bdb484360c50cb7e5a82f015b9358d9d51350c7f4013815c710db804",
+    "dhash": "070f2d2d290f0707",
+    "split": "test",
+    "group": 27
+  },
+  {
+    "path": "happy/image22.jpeg",
+    "label": 0,
+    "input_sha256": "4423184db16ee42065209449b34fe23c61467f1058413aa0f999d5eb6d23f3d5",
+    "dhash": "5a7f7f3d7934373f",
+    "split": "train",
+    "group": 66
+  },
+  {
+    "path": "happy/image23.jpeg",
+    "label": 0,
+    "input_sha256": "946046443a3159bf07a987c32a1d4cd6eeb979b99b3979d97ce4b206058d7b3f",
+    "dhash": "cbdab2a2eae6e4dd",
+    "split": "train",
+    "group": 92
+  },
+  {
+    "path": "happy/image24.jpeg",
+    "label": 0,
+    "input_sha256": "5c46832f29f1dd30ca7886c222e9b43833e06e5128fac6e0039e427e0fbd1c7d",
+    "dhash": "5745ece8ab8f1f3f",
+    "split": "train",
+    "group": 44
+  },
+  {
+    "path": "happy/image25.jpeg",
+    "label": 0,
+    "input_sha256": "7eed6865f1e482082ef8c5bb054b5c77fbcbf838e2cebe2a229fbebbe829da77",
+    "dhash": "b69356b6b6766c6d",
+    "split": "train",
+    "group": 46
+  },
+  {
+    "path": "happy/image26.jpeg",
+    "label": 0,
+    "input_sha256": "53583dd4185b9097199b7d3c737d50d29b89399876cfeb8ca0a9bf83f8c55c91",
+    "dhash": "94dad4e4a4b52093",
+    "split": "train",
+    "group": 73
+  },
+  {
+    "path": "happy/image27.jpeg",
+    "label": 0,
+    "input_sha256": "391e85b6c71273c90b7a9086f16ad76480436288640376df06b4e8c40ec0f885",
+    "dhash": "53131b17671bb3a5",
+    "split": "val",
+    "group": 22
+  },
+  {
+    "path": "happy/image28.jpeg",
+    "label": 0,
+    "input_sha256": "9aae4bad92012ef574e723dd0724f9fabc803d67d15a69bc0286526eb9ffc61a",
+    "dhash": "2d65242521b1b11a",
+    "split": "val",
+    "group": 51
+  },
+  {
+    "path": "happy/image29.jpeg",
+    "label": 0,
+    "input_sha256": "136984ad4f2622b9f281f238f7b88c6725bb9796dfa0f414d69ca99e108616b3",
+    "dhash": "f034c765c4d3a624",
+    "split": "train",
+    "group": 189
+  },
+  {
+    "path": "happy/image3.jpeg",
+    "label": 0,
+    "input_sha256": "2609643096c2ada5ea52e148173e517884ce740b073afe1a91dc0de5340f5d84",
+    "dhash": "0cc943df76e6268e",
+    "split": "val",
+    "group": 214
+  },
+  {
+    "path": "happy/image30.jpeg",
+    "label": 0,
+    "input_sha256": "5f75d8f41f7f5d6fdb812afb3f36504df15186af8652a1820d1c87d26907cb05",
+    "dhash": "baf2f2e2cae4e0f0",
+    "split": "val",
+    "group": 43
+  },
+  {
+    "path": "happy/image31.jpeg",
+    "label": 0,
+    "input_sha256": "c691c50225210d07ffe04f871526ba5a9f4fc73a43b259f739a78c032cfb74b4",
+    "dhash": "242c1e9a882af2c6",
+    "split": "train",
+    "group": 58
+  },
+  {
+    "path": "happy/image32.png",
+    "label": 0,
+    "input_sha256": "ceea745d0c588275b96cd520a8f04a0e6fc013d55d4424f9af59da7697c61dee",
+    "dhash": "a8aae0f8f8707002",
+    "split": "train",
+    "group": 157
+  },
+  {
+    "path": "happy/image4.jpeg",
+    "label": 0,
+    "input_sha256": "53c88d6fc4c5c0e080ec3141539c8a992449f47252bdd9e0421916f136355c11",
+    "dhash": "c7c3438ba234cbc3",
+    "split": "train",
+    "group": 120
+  },
+  {
+    "path": "happy/image5.jpeg",
+    "label": 0,
+    "input_sha256": "d5b0f8d2dab1827eba6b13cd1ce495f619f9a0e3c0ff69ae9387716d73d23c7d",
+    "dhash": "d670b36345532793",
+    "split": "train",
+    "group": 84
+  },
+  {
+    "path": "happy/image6.jpeg",
+    "label": 0,
+    "input_sha256": "cde3e6a90cc983eac73a325361c68863a468f1aeed59368e633724d428a90189",
+    "dhash": "c94b4bcbced2f272",
+    "split": "val",
+    "group": 132
+  },
+  {
+    "path": "happy/image7.jpeg",
+    "label": 0,
+    "input_sha256": "a5fb51660f3780aadc261ea0b53f4f25c6b98bb92145ef0a83001708a773c42d",
+    "dhash": "12d3f36fec4c2616",
+    "split": "train",
+    "group": 138
+  },
+  {
+    "path": "happy/image8.jpeg",
+    "label": 0,
+    "input_sha256": "b3f3207a157874766bf6153b21e1bf7ce7a3dae47e8e9d9ec651dbd01fe4c890",
+    "dhash": "dc3c96eac9bcc5ce",
+    "split": "val",
+    "group": 161
+  },
+  {
+    "path": "happy/image9.jpeg",
+    "label": 0,
+    "input_sha256": "552d2fe3cd02a8fe397c4314a989fe7b372ea3ff9858291ced5cebee24e70308",
+    "dhash": "a8a8b0ecaa98c824",
+    "split": "train",
+    "group": 126
+  },
+  {
+    "path": "happy/images.jpg",
+    "label": 0,
+    "input_sha256": "1375e8dcdd4f0fac6c6a17e16bcb48fe2e1a18290876f00dabceb196856c72af",
+    "dhash": "baf8319a1b3fefff",
+    "split": "train",
+    "group": 148
+  },
+  {
+    "path": "happy/images10.jpg",
+    "label": 0,
+    "input_sha256": "ac581eb935d3779b583d38c71bc43dcc6794bcca7e7c47ef0eb814d9a19d07e5",
+    "dhash": "7472b2f2ecec122c",
+    "split": "train",
+    "group": 130
+  },
+  {
+    "path": "happy/images11.jpg",
+    "label": 0,
+    "input_sha256": "9bf8d83323eb83f488eaf02a1b80741f3d21415e7938230bf5df243159e3f9d6",
+    "dhash": "252d252d29090f0f",
+    "split": "test",
+    "group": 10
+  },
+  {
+    "path": "happy/images12.jpg",
+    "label": 0,
+    "input_sha256": "1f94a41960081c30df8aa40a8451eff5afaf5de457839063e33957bbbf0cc3c4",
+    "dhash": "3210162a32314141",
+    "split": "train",
+    "group": 33
+  },
+  {
+    "path": "happy/images13.jpg",
+    "label": 0,
+    "input_sha256": "d68ab3226137ddf988e411979ffecd20957e6b1168cffe924798f264be8c6bd9",
+    "dhash": "b0e4644cf8288934",
+    "split": "train",
+    "group": 164
+  },
+  {
+    "path": "happy/images14.jpg",
+    "label": 0,
+    "input_sha256": "164c6b3c9d7bb728e936a3b4059aec08f09ac1a6998b078ea8b9b022eabeb8bf",
+    "dhash": "1a8ccd7a786c7d31",
+    "split": "val",
+    "group": 83
+  },
+  {
+    "path": "happy/images15.jpg",
+    "label": 0,
+    "input_sha256": "95f812a99fcd41deb26ce808420f6fd5ffe5cf89aebeadbe39693d877dcce95d",
+    "dhash": "cccc94e4e6b2b222",
+    "split": "train",
+    "group": 1
+  },
+  {
+    "path": "happy/images16.jpg",
+    "label": 0,
+    "input_sha256": "cc8a3c4b1bad5d6315fa0179ba2166051f415fc6481eddb9c3d6e6eae1baa865",
+    "dhash": "0c1c1c0df57f3f3f",
+    "split": "test",
+    "group": 86
+  },
+  {
+    "path": "happy/images17.jpg",
+    "label": 0,
+    "input_sha256": "5e4264bb259274fec452bed203d77daf8f03bb26ecab49dd47a5c800aed357d3",
+    "dhash": "13371595959383c3",
+    "split": "train",
+    "group": 42
+  },
+  {
+    "path": "happy/images18.jpg",
+    "label": 0,
+    "input_sha256": "e94ff4d7ebea61aaf68f4e3a52a40235168d92bb2766c61ab9c147eef2950d50",
+    "dhash": "61124c6ca8b46e00",
+    "split": "val",
+    "group": 31
+  },
+  {
+    "path": "happy/images19.jpg",
+    "label": 0,
+    "input_sha256": "ec90d44901b7a59e7f7f4e3d9fa1007c241ebfc5ea742fd7afe128813016829f",
+    "dhash": "d4f0c8c48aaaaae8",
+    "split": "test",
+    "group": 47
+  },
+  {
+    "path": "happy/images2.jpg",
+    "label": 0,
+    "input_sha256": "10d228f3486fc926adb193e787cfc936cde9bbe93b7ec0322ff4e33d7a9ae63a",
+    "dhash": "127632360e0b131b",
+    "split": "val",
+    "group": 146
+  },
+  {
+    "path": "happy/images20.jpg",
+    "label": 0,
+    "input_sha256": "e9471c098b059cdec8c0d98bfca6a7ba14f9ef3e3046e4a885cd83b55681d0ac",
+    "dhash": "747078f8f8f9d979",
+    "split": "train",
+    "group": 29
+  },
+  {
+    "path": "happy/images21.jpg",
+    "label": 0,
+    "input_sha256": "48548784fd7d6b7e4ce6cca49581706efe2ff5451cae1723bfbe4de9491eb118",
+    "dhash": "86aeeca99cd9cdc5",
+    "split": "val",
+    "group": 167
+  },
+  {
+    "path": "happy/images22.jpg",
+    "label": 0,
+    "input_sha256": "aa07f147eed180da9370c9de4eb6b4b43a25cb21312e2a4ed21a55d53bd89fb2",
+    "dhash": "6d707226a3e5c646",
+    "split": "val",
+    "group": 14
+  },
+  {
+    "path": "happy/images23.jpg",
+    "label": 0,
+    "input_sha256": "28e9f57533fe8aeea61c85fd40ca4b6aa8cbbb147f49c1bdcbbd55f2fedcdb56",
+    "dhash": "d7c7c6c3c2dad9f9",
+    "split": "train",
+    "group": 17
+  },
+  {
+    "path": "happy/images24.jpg",
+    "label": 0,
+    "input_sha256": "08c41f246237f178148e2412b0f3bd520d86c6bdf84cfcc568f9acad7d6aff6d",
+    "dhash": "91931b23e72d2562",
+    "split": "train",
+    "group": 94
+  },
+  {
+    "path": "happy/images25.jpg",
+    "label": 0,
+    "input_sha256": "188c3019d084d3b2dab5301503522047e00a17a8e4923a0a142998ab37ff251d",
+    "dhash": "536369e9c5e5ec6c",
+    "split": "train",
+    "group": 24
+  },
+  {
+    "path": "happy/images26.jpg",
+    "label": 0,
+    "input_sha256": "25aaf404f484f801207c3f1592795a607b40d0f0952dea9f0dc797883fd58b24",
+    "dhash": "131b129a92929190",
+    "split": "train",
+    "group": 57
+  },
+  {
+    "path": "happy/images27.jpg",
+    "label": 0,
+    "input_sha256": "443d9458d09a3df7ec9b65821109264a26eaea4310e5a9f802c30c23eb76e1e1",
+    "dhash": "b8f0b9989edadfed",
+    "split": "train",
+    "group": 112
+  },
+  {
+    "path": "happy/images28.jpg",
+    "label": 0,
+    "input_sha256": "a3d756ebcb706ab5b9c130a33cf5b5fb7e57cadbd05424218621b22061087d64",
+    "dhash": "cbc3d59593d34b5f",
+    "split": "train",
+    "group": 9
+  },
+  {
+    "path": "happy/images29.jpg",
+    "label": 0,
+    "input_sha256": "35279c8e2263d80c8e3a3c433658e36d76195316f1f63e914258d54c74e35648",
+    "dhash": "7f3f379e9aaebc3d",
+    "split": "train",
+    "group": 80
+  },
+  {
+    "path": "happy/images3.jpg",
+    "label": 0,
+    "input_sha256": "eb86fdcd0aaea5124632ad7284e84cf78ccffb6727951a22dd51aa3d30275bb7",
+    "dhash": "d2f1d8d8dad89a6c",
+    "split": "train",
+    "group": 230
+  },
+  {
+    "path": "happy/images30.jpg",
+    "label": 0,
+    "input_sha256": "56d2f844ecde1c2199faa0992aed173a25eee29c115e755cd9933f3c5b102350",
+    "dhash": "d19296929191c9c9",
+    "split": "train",
+    "group": 15
+  },
+  {
+    "path": "happy/images31.jpg",
+    "label": 0,
+    "input_sha256": "fd10afce880143ebd9412f8d001ec86b7245cc990edad1f07830fa7cc1abed5e",
+    "dhash": "33d4cccc9cf2f050",
+    "split": "train",
+    "group": 11
+  },
+  {
+    "path": "happy/images32.jpg",
+    "label": 0,
+    "input_sha256": "38693a8202553836cbd4dde2959a135e11b77dd73564b1990b8f9ab98695c5a6",
+    "dhash": "60a088890b0a9999",
+    "split": "train",
+    "group": 171
+  },
+  {
+    "path": "happy/images33.jpg",
+    "label": 0,
+    "input_sha256": "9d0169ace6c65e6ea42dd1aa55e7e2f71a2e1c0d6cd838fd3999b2e31d91b980",
+    "dhash": "53111959d9d1510b",
+    "split": "train",
+    "group": 2
+  },
+  {
+    "path": "happy/images34.jpg",
+    "label": 0,
+    "input_sha256": "9d236923a83d22235f381ee0ad14176bd7f638d34dce083a9e1c4303439825f0",
+    "dhash": "211454755515b89a",
+    "split": "train",
+    "group": 106
+  },
+  {
+    "path": "happy/images35.jpg",
+    "label": 0,
+    "input_sha256": "ac48aef20646120c627ff7b1369b94a0a9c66faadbe7dd370ef6d02148e4591c",
+    "dhash": "6325a5a5a585a121",
+    "split": "val",
+    "group": 67
+  },
+  {
+    "path": "happy/images36.jpg",
+    "label": 0,
+    "input_sha256": "75ab5270676e2bb48b6307f918301a6ffc308c88b1ba0260e1e2420a2540a122",
+    "dhash": "94b0b2bab2b2e808",
+    "split": "val",
+    "group": 59
+  },
+  {
+    "path": "happy/images4.jpg",
+    "label": 0,
+    "input_sha256": "6214b96a277e66ca46495f47aa64cee67620fe9efce7edb708506fbb1504ef73",
+    "dhash": "99959597cecfcce7",
+    "split": "train",
+    "group": 63
+  },
+  {
+    "path": "happy/images5.jpg",
+    "label": 0,
+    "input_sha256": "be10f3c70788d1f3d3d17edf710957e9ab36992e5b24cf3b596887ae83990643",
+    "dhash": "c8ecf8e8eccc70b2",
+    "split": "train",
+    "group": 41
+  },
+  {
+    "path": "happy/images6.jpg",
+    "label": 0,
+    "input_sha256": "ce1766cb71f67eb4fd570083e1c7b5e75034f40a0c851858a563a836205239c6",
+    "dhash": "6101b0b2eceee200",
+    "split": "train",
+    "group": 25
+  },
+  {
+    "path": "happy/images7.jpg",
+    "label": 0,
+    "input_sha256": "ddcfef2d2bf051e0cc21b7119521e2c1318550770004cc0bba75cdf47e7a7706",
+    "dhash": "372b232744cc8c92",
+    "split": "train",
+    "group": 60
+  },
+  {
+    "path": "happy/images8.jpg",
+    "label": 0,
+    "input_sha256": "b9e17768924be3a696c74601898c64c7c4773102d6ac5d6e3a28a2afed23424e",
+    "dhash": "3f3c3c3d1d1c1e1b",
+    "split": "train",
+    "group": 54
+  },
+  {
+    "path": "happy/images9.jpg",
+    "label": 0,
+    "input_sha256": "177d04d74695bf6cb10bfc6237597e06942f39cb1e26f5641adaedeb0459a0b2",
+    "dhash": "0315cd440d38b0b3",
+    "split": "train",
+    "group": 49
+  },
+  {
+    "path": "happy/iStock-1212931050.jpg",
+    "label": 0,
+    "input_sha256": "8a3ba09c952685124cd75e11aa04b2644e9d61b02f76aa96504ecef8941e407e",
+    "dhash": "6acbdbcacbcc8d9f",
+    "split": "val",
+    "group": 91
+  },
+  {
+    "path": "happy/jumping_for_joy_for_3_kinds_of_happy_people.jpg",
+    "label": 0,
+    "input_sha256": "daccf11e06316a2ec32dcb29082a0423cd9a75b26475ab3d92e8625ba549758b",
+    "dhash": "cae7333f7f7f7f7f",
+    "split": "train",
+    "group": 194
+  },
+  {
+    "path": "happy/maxresdefault.jpg",
+    "label": 0,
+    "input_sha256": "e1363a5bb07e72925bbd491c61888927cd962fb1aadaa239ce90af0e3eb1bc85",
+    "dhash": "5745ece8ab8f1f3f",
+    "split": "train",
+    "group": 44
+  },
+  {
+    "path": "happy/maxresdefault2.jpg",
+    "label": 0,
+    "input_sha256": "da4dbb1dae14a56c8d2d255870f54bc8e6415d98f65b4ef7384de2ee127ba4b8",
+    "dhash": "c8ecf8e8eccc7032",
+    "split": "train",
+    "group": 41
+  },
+  {
+    "path": "happy/MV5BMTM3ODM0NTQ1MF5BMl5BanBnXkFtZTcwMzAxMTM5OA._V1_.jpg",
+    "label": 0,
+    "input_sha256": "e943a72190e207484354a983dd0c83b0a156f2c4f69d655cd9cabd126ee8d12e",
+    "dhash": "11f2773f034040d8",
+    "split": "train",
+    "group": 119
+  },
+  {
+    "path": "happy/o-HAPPY-facebook.jpg",
+    "label": 0,
+    "input_sha256": "924c2909921a6ea93b869d358a53240dbe22a1ba2b151dcf41976297e6eaee5a",
+    "dhash": "62706868226b3131",
+    "split": "train",
+    "group": 68
+  },
+  {
+    "path": "happy/physed-happiness-facebookJumbo.jpg",
+    "label": 0,
+    "input_sha256": "10b2407e86261195310564c3573a1ad8fb89ae1d89538b7c4d3899fe2e5adf2d",
+    "dhash": "1f1b1b1a968b6f1f",
+    "split": "train",
+    "group": 74
+  },
+  {
+    "path": "happy/Screen-Shot-2012-10-23-at-12.57.22-PM.png",
+    "label": 0,
+    "input_sha256": "1145aec735df474af02d5c136002cb74fa4c5909fdf0edfb3dd348ca8ef84bac",
+    "dhash": "9c8ccc669a19d2b8",
+    "split": "val",
+    "group": 203
+  },
+  {
+    "path": "happy/smile.woman_.jpg",
+    "label": 0,
+    "input_sha256": "c4615ddda625b8f10a1502333e817ca3250b0b237745888dd010c5fe91a06f80",
+    "dhash": "143414140d0b0712",
+    "split": "train",
+    "group": 220
+  },
+  {
+    "path": "happy/the-habits-of-happy-people-a-meditation-day-course-611337.jpg",
+    "label": 0,
+    "input_sha256": "23ace270dc6ab7273194b0a936a69a186f12b997ff904de4ddd7c48391630045",
+    "dhash": "53111b59d9d1510b",
+    "split": "train",
+    "group": 2
+  },
+  {
+    "path": "happy/THPC_Logo-jpeg.jpg",
+    "label": 0,
+    "input_sha256": "ff9cbbe0f3aa53cee72660a0fc4a60b336e72eebc32b44bd907d89f827db4ec7",
+    "dhash": "68e850a6a8b2e060",
+    "split": "train",
+    "group": 165
+  },
+  {
+    "path": "happy/tmp_6mv7xy_5d5b15258a507669_GettyImages-847741712.jpg",
+    "label": 0,
+    "input_sha256": "cd4ed97501cf82c635ad6ac966f8f3df0d7912ad65b9d0ed7f19faf2d8e508df",
+    "dhash": "99959597cecfcce7",
+    "split": "train",
+    "group": 63
+  },
+  {
+    "path": "happy/Top-Secrets-of-How-to-be-Happy.jpg",
+    "label": 0,
+    "input_sha256": "370234d6a70e32fc8955b850c15d5ac3f0986a30f940122d3dc1739b2222a8e9",
+    "dhash": "6f6f2f278725baca",
+    "split": "train",
+    "group": 85
+  },
+  {
+    "path": "happy/traitshappypeople.jpg",
+    "label": 0,
+    "input_sha256": "b20ed986e03736d0c2f072781031620e673dea6e9b6b9dd9b50504c1ccd39298",
+    "dhash": "d19296929191c9c9",
+    "split": "train",
+    "group": 15
+  },
+  {
+    "path": "happy/Travis-Bradberry-Happy.jpg",
+    "label": 0,
+    "input_sha256": "170b06474384767c3959be45f5875d5cb3d2f7881ed5a921795877d87ade202a",
+    "dhash": "13371595959383c3",
+    "split": "train",
+    "group": 42
+  },
+  {
+    "path": "happy/web3-happy-people-outside-smile-sun-nature-eduardo-dutra-620857-unsplash.jpg",
+    "label": 0,
+    "input_sha256": "f6dc7bd8585c2d1d2384158aa7cdaf73364907eea95a8d7043f5242602e1fc1d",
+    "dhash": "6c68687068481898",
+    "split": "train",
+    "group": 223
+  },
+  {
+    "path": "happy/what-makes-people-happy.jpeg",
+    "label": 0,
+    "input_sha256": "0e26c7774b495363cd17a9a95eff1322a7656ed3c186cd2509873ede5e7e5aa1",
+    "dhash": "b69356b6b6766c6d",
+    "split": "train",
+    "group": 46
+  },
+  {
+    "path": "happy/young-and-happy-people-vector-15114154.jpg",
+    "label": 0,
+    "input_sha256": "6220fa031d05c7f95e1e8a35f9484bdb5874065a30b89aa7878749e893aa2d72",
+    "dhash": "61124c6ca8b46e00",
+    "split": "val",
+    "group": 31
+  },
+  {
+    "path": "sad/0x0.jpg",
+    "label": 1,
+    "input_sha256": "44dd15d135c0f2cfa0462d5e67c3f23e2fcd64c35a3fd8884e2f842132a7ad93",
+    "dhash": "7266a08202a21212",
+    "split": "train",
+    "group": 39
+  },
+  {
+    "path": "sad/1000_F_58495935_Nr9VzQljLyN3RKKhGDGxQDBEkqIeLzrZ.jpg",
+    "label": 1,
+    "input_sha256": "2ba594ac3e6d55ecac52fd7bad40eb70ba7cb33f73d380dfeec9c0781315ab5f",
+    "dhash": "ce9a1e1c10d4b094",
+    "split": "train",
+    "group": 102
+  },
+  {
+    "path": "sad/280-2804580_sad-people-png-sad-person-png-transparent-png.png",
+    "label": 1,
+    "input_sha256": "675f419cdec38fb5b8a40ac2e6c6a3d4bd884547e90bf755f0b51d34b9ef4909",
+    "dhash": "7071694de8696932",
+    "split": "train",
+    "group": 179
+  },
+  {
+    "path": "sad/405-4050267_sad-people-png-sad-person-transparent-background-png.png",
+    "label": 1,
+    "input_sha256": "d372652071d7fd1f2b5098c6d5c90a5b196d6f3e709be3d458853bca916aae5b",
+    "dhash": "6ae6c490d9d9e336",
+    "split": "train",
+    "group": 177
+  },
+  {
+    "path": "sad/504212.jpg",
+    "label": 1,
+    "input_sha256": "1427e1153c6968486000f69a1b7bc90586ab3dd3cee26676ee3b53b7841ee4e9",
+    "dhash": "10693119090b0303",
+    "split": "val",
+    "group": 16
+  },
+  {
+    "path": "sad/51079685_M-1280x429.jpg",
+    "label": 1,
+    "input_sha256": "28a413c3af6321cfa0c73f597810d971e3d6736367803ce524f36c109a42fc5b",
+    "dhash": "6c4c5c54565cd676",
+    "split": "train",
+    "group": 159
+  },
+  {
+    "path": "sad/51079685_M.jpg",
+    "label": 1,
+    "input_sha256": "df2de44fefd27dafc8eec09a9d548aa544760d621d2da05482b4714b4b9808ef",
+    "dhash": "8cbcec4c54547636",
+    "split": "train",
+    "group": 32
+  },
+  {
+    "path": "sad/52672678._SX318_SY475_.jpg",
+    "label": 1,
+    "input_sha256": "74e82d00d95a77350fb95e9ab51e8320550f979ba64e9494910f0b5fcf0951c8",
+    "dhash": "0000004b1f16374c",
+    "split": "train",
+    "group": 109
+  },
+  {
+    "path": "sad/5360f7e3f9a01bb1aa10654514442436.500x500x1.jpg",
+    "label": 1,
+    "input_sha256": "995ceb19449e37a6e73e622042f534665a83692d62ba6c25e17213d069b0bee8",
+    "dhash": "f490ccdcd0d0d090",
+    "split": "train",
+    "group": 184
+  },
+  {
+    "path": "sad/6-Best-and-worst-things-to-say.jpg",
+    "label": 1,
+    "input_sha256": "6fb8f541cb51f64a5049cef3f2a84df171edbbfb37beabfbdd99497a250c22ca",
+    "dhash": "6f0f0f060f0f1f3f",
+    "split": "train",
+    "group": 40
+  },
+  {
+    "path": "sad/73705bd7debb66c2afc780a22c223804.jpg",
+    "label": 1,
+    "input_sha256": "0b4ee70687bb6af40ee6cdc22ee661afc4467a159ea15e78edb68c5c02ec912a",
+    "dhash": "43c7e07c6de8f0f6",
+    "split": "train",
+    "group": 4
+  },
+  {
+    "path": "sad/766x415_Depression_vs_Sadness.jpg",
+    "label": 1,
+    "input_sha256": "8c4c9c0f337c89c354c0ffbc9b5a98bc08ef91ab851de45192a8f1d359f5df9d",
+    "dhash": "271713777373e3e3",
+    "split": "val",
+    "group": 175
+  },
+  {
+    "path": "sad/7RNXwSxCAKL8vGtXG2ZkyD.jpg",
+    "label": 1,
+    "input_sha256": "949eff60e67e075ebc8c774e65f3385aa04e1e66168eb43f7e6d2c58af4640d0",
+    "dhash": "978763e3f6c6cccf",
+    "split": "train",
+    "group": 7
+  },
+  {
+    "path": "sad/8iAb9k4aT.jpg",
+    "label": 1,
+    "input_sha256": "db7040f8debe9d36e0d442b4622418470acc0837991311171e8ff36045043768",
+    "dhash": "43e7a99bb3b3a787",
+    "split": "train",
+    "group": 18
+  },
+  {
+    "path": "sad/AdobeStock_221688877-copy.jpg",
+    "label": 1,
+    "input_sha256": "e6fb4bc928cd8ca80a9c91a95086d9933bffb2f4e6c090dd8d893a987f6f2a01",
+    "dhash": "969797964e646179",
+    "split": "val",
+    "group": 121
+  },
+  {
+    "path": "sad/artworks-inq7uS3bz9CqNd3d-fqs6TA-t500x500.jpg",
+    "label": 1,
+    "input_sha256": "8b70d9c333becdfe32797a6c8c5501902b4e8e12fa818b59e4d41ac826bc9e01",
+    "dhash": "a1b1111333931b3f",
+    "split": "train",
+    "group": 50
+  },
+  {
+    "path": "sad/artworks-pQBql6xWFe6JFOp4-FRtE5g-t500x500.jpg",
+    "label": 1,
+    "input_sha256": "1c5d61b3d63d5cbb769c97ee64f745ceeb188fe482b599db1d3fbf6931ba4109",
+    "dhash": "0008303313030301",
+    "split": "train",
+    "group": 128
+  },
+  {
+    "path": "sad/at-home-sad-sofa-300x200.jpg",
+    "label": 1,
+    "input_sha256": "15c69957c1c2693b08a919a21f0373c078699cb7ffda8ec34a8f48393410a511",
+    "dhash": "6c6c747879793931",
+    "split": "train",
+    "group": 19
+  },
+  {
+    "path": "sad/b11b520b0818895ae5563d1e70294052.jpg",
+    "label": 1,
+    "input_sha256": "992b01b2500d245f13a98eb5fcd625f9e0751dc53ca239e61a8799ca859daa5d",
+    "dhash": "3a3e860786838ace",
+    "split": "train",
+    "group": 23
+  },
+  {
+    "path": "sad/b2ap3_large_happy-sad-unsplash-850x575.jpg",
+    "label": 1,
+    "input_sha256": "71663fdbb5c85a58bce6f9cd784c4b00b04b8db5b41f134ba6e74b345c72d596",
+    "dhash": "071f1f968f0f0c0e",
+    "split": "test",
+    "group": 34
+  },
+  {
+    "path": "sad/boy-with-head-down.jpg",
+    "label": 1,
+    "input_sha256": "6623348b0dc967fe848f2a3154f43f1ff58b9f56fdf0ea20f39754a738355426",
+    "dhash": "8d8d8d9c8cccc0c8",
+    "split": "train",
+    "group": 77
+  },
+  {
+    "path": "sad/crying-at-work.jpg",
+    "label": 1,
+    "input_sha256": "b86579653412482daaeade7185cb1f8fe4487f468891e85a73a61d5b35e60874",
+    "dhash": "37303a7230383232",
+    "split": "test",
+    "group": 101
+  },
+  {
+    "path": "sad/Crying-girl.jpg",
+    "label": 1,
+    "input_sha256": "8d94285a663d5b0c8f74df32f188bf02d1bd7e55424f687f8a7e7594c3ecfe7e",
+    "dhash": "ccf879387c7c7470",
+    "split": "train",
+    "group": 233
+  },
+  {
+    "path": "sad/dark-depression-mood-people-wallpaper-preview.jpg",
+    "label": 1,
+    "input_sha256": "019d4d19ca85367c5e99101ecff4f525a026a11c1eceb2137810421e25964907",
+    "dhash": "83c7c3cf0f0f0786",
+    "split": "train",
+    "group": 204
+  },
+  {
+    "path": "sad/DD-blogpost-SAD-940x492.png",
+    "label": 1,
+    "input_sha256": "499f4048e5b7b1f96c69dbd2ed76f1b690adb6e8a79a8ddd32484812644292cc",
+    "dhash": "1f0f1b9b8d8f1e1e",
+    "split": "train",
+    "group": 13
+  },
+  {
+    "path": "sad/de2a0f4d137d0aeb839d43a2ea9b6c72.jpg",
+    "label": 1,
+    "input_sha256": "3148a0bd2bc8f2826e748b167004d7b90f8ddfea85b79e89cb9f77d23e305fed",
+    "dhash": "20342e1e0b2f0e30",
+    "split": "train",
+    "group": 64
+  },
+  {
+    "path": "sad/Depressed-woman-covering-her-eyes.jpg",
+    "label": 1,
+    "input_sha256": "2584e1a1e5e3867872124eff4c00409f68999dab1f703f8859a863d48955c496",
+    "dhash": "d0b0f0f0f0f0f0e0",
+    "split": "train",
+    "group": 224
+  },
+  {
+    "path": "sad/Depression-More-Than-Being-Sad.jpg",
+    "label": 1,
+    "input_sha256": "2ea88da7e0bbcf28b82c80593a47946f960115a04ea54c5b1692adba68433259",
+    "dhash": "2621438383979ecb",
+    "split": "test",
+    "group": 227
+  },
+  {
+    "path": "sad/dreamstime_s_101440985.jpg",
+    "label": 1,
+    "input_sha256": "13d469a44a6c561232a4b8cad39369e3d24b8c251ea231a715a9818da1ec86da",
+    "dhash": "2131181838101111",
+    "split": "train",
+    "group": 52
+  },
+  {
+    "path": "sad/fTw5aVC5_400x400.jpg",
+    "label": 1,
+    "input_sha256": "6934b868adbe50ae6acdffcf013c1118b510fb37fb5bd91e00fc63a6df6f8722",
+    "dhash": "cafc787aded85969",
+    "split": "train",
+    "group": 114
+  },
+  {
+    "path": "sad/getty_501650894_118886.jpg",
+    "label": 1,
+    "input_sha256": "9e55f22e0d3cff2cb39d0f969d7b250957bad9cc9f9788683ca74e2f647dcef7",
+    "dhash": "7f6f6e3c3071f143",
+    "split": "val",
+    "group": 28
+  },
+  {
+    "path": "sad/gettyimages-957787572.jpg",
+    "label": 1,
+    "input_sha256": "9944692d8d22018c62714dbd08e52124d2372f909143a3a80e640225e820b88d",
+    "dhash": "3bbb676861715138",
+    "split": "train",
+    "group": 38
+  },
+  {
+    "path": "sad/image-20160914-4963-19knfh1.jpg",
+    "label": 1,
+    "input_sha256": "64c459db04fecb41edeacc8cf40d5628b1b4d5f43def46b871ad49ac934376c9",
+    "dhash": "6b33b3793efc2e5e",
+    "split": "val",
+    "group": 81
+  },
+  {
+    "path": "sad/image.jpeg",
+    "label": 1,
+    "input_sha256": "16b6ff93f299eae44798d86b7eb699b915430bb6481656703c47c7ccab658ba0",
+    "dhash": "539390d081415119",
+    "split": "val",
+    "group": 140
+  },
+  {
+    "path": "sad/image10.jpeg",
+    "label": 1,
+    "input_sha256": "c6f2489edf943376afd901938e8048d7f4614c93bee0132d266bf2b11d37ce66",
+    "dhash": "1ccc643469717755",
+    "split": "train",
+    "group": 152
+  },
+  {
+    "path": "sad/image11.jpeg",
+    "label": 1,
+    "input_sha256": "abd3dd6a7404f61bd0bbc047883a09217c0f7abc4b9aca386d92c0bb6860c84d",
+    "dhash": "3131181838101111",
+    "split": "train",
+    "group": 52
+  },
+  {
+    "path": "sad/image12.jpeg",
+    "label": 1,
+    "input_sha256": "39e3850ce8d6f378578ddf1a9c5db6d6bc74788c7665d4f8117fa4f1e0ee1869",
+    "dhash": "7f6f6e3c3071f143",
+    "split": "val",
+    "group": 28
+  },
+  {
+    "path": "sad/image13.jpeg",
+    "label": 1,
+    "input_sha256": "2433e6408cbc26b5c99d3502b67adc113b5d29b2c08a1b06b7b2166fb7c09861",
+    "dhash": "4c4c4c184c4c4c4c",
+    "split": "val",
+    "group": 36
+  },
+  {
+    "path": "sad/image14.jpeg",
+    "label": 1,
+    "input_sha256": "344f38b47a83f1840ef3f13d4b819eaa810b7dedd8ffe4f567d9c51107c40d28",
+    "dhash": "2626161b0b030301",
+    "split": "train",
+    "group": 100
+  },
+  {
+    "path": "sad/image15.jpeg",
+    "label": 1,
+    "input_sha256": "8947a84b12d9feda3cd8bd79821c2c57e932ee81ba86db256341a9d80fcd5f5b",
+    "dhash": "43e7a99bb3b3a787",
+    "split": "train",
+    "group": 18
+  },
+  {
+    "path": "sad/image16.jpeg",
+    "label": 1,
+    "input_sha256": "6c3b1ed41619daea054940bab8cb8ce1a55b92bf4361eb97796cd4799c4aebc0",
+    "dhash": "071f1f968f0f0c0e",
+    "split": "test",
+    "group": 34
+  },
+  {
+    "path": "sad/image17.jpeg",
+    "label": 1,
+    "input_sha256": "45ce5d11469108cea1db41e0b3c349eaa46f51ce2b4d55f4587d08903f9e6c52",
+    "dhash": "cfc7cf4f4f67af8f",
+    "split": "train",
+    "group": 45
+  },
+  {
+    "path": "sad/image18.jpeg",
+    "label": 1,
+    "input_sha256": "5d48d2a95004f7e15d71f12cc54e7faa9accf99300b719a4416e26057e76474b",
+    "dhash": "e46d4d5151333313",
+    "split": "train",
+    "group": 122
+  },
+  {
+    "path": "sad/image19.jpeg",
+    "label": 1,
+    "input_sha256": "b891cab09711883d022ff0dd3d151ff65dc6639807fbe5d998570454e26bc59e",
+    "dhash": "94dcdcdc6c687972",
+    "split": "train",
+    "group": 90
+  },
+  {
+    "path": "sad/image2.jpeg",
+    "label": 1,
+    "input_sha256": "84afb28a621a4c9926d20d7cda0236db90fe05923f0350b1a9fd5be913164d65",
+    "dhash": "4595cdc9c989917f",
+    "split": "val",
+    "group": 155
+  },
+  {
+    "path": "sad/image20.jpeg",
+    "label": 1,
+    "input_sha256": "bc44c44bcda7856ee1273444e294b2a66f8018c547f7bbc40f3ea7b6dfdebd4b",
+    "dhash": "d8f0ecc4d4d5c1c1",
+    "split": "val",
+    "group": 6
+  },
+  {
+    "path": "sad/image21.jpeg",
+    "label": 1,
+    "input_sha256": "9cd9518bd75aa4214cfb475f447450f7a56a2cb20273f3273f7f57dbbbe1e135",
+    "dhash": "7124a828f9d0f979",
+    "split": "train",
+    "group": 26
+  },
+  {
+    "path": "sad/image22.jpeg",
+    "label": 1,
+    "input_sha256": "044648c5037b68790c6aabd66414d6b7b61b214c1bdadc81a8f32a6350bd5d35",
+    "dhash": "decaea3c392b3b33",
+    "split": "val",
+    "group": 48
+  },
+  {
+    "path": "sad/image23.jpeg",
+    "label": 1,
+    "input_sha256": "58a3bfce1a72db7ee4b561e4036b033d7197033703646d3925cbfdb174107213",
+    "dhash": "1c15171f4d1f0f0f",
+    "split": "train",
+    "group": 30
+  },
+  {
+    "path": "sad/image24.jpeg",
+    "label": 1,
+    "input_sha256": "3b01c05320f1d24a7e27ad341425ef326dcbf7900b64b2e875919a6cd49412bb",
+    "dhash": "43c7e07c6de8f0f6",
+    "split": "train",
+    "group": 4
+  },
+  {
+    "path": "sad/image25.jpeg",
+    "label": 1,
+    "input_sha256": "95feb19ae4a1db9b40441e7ee0a851faefdad44757dc4fcdf451e530ba75896b",
+    "dhash": "978763e3f6c6cccf",
+    "split": "train",
+    "group": 7
+  },
+  {
+    "path": "sad/image26.jpeg",
+    "label": 1,
+    "input_sha256": "1b064ac85db6756c9f3188a6b155a631a908c0aff67bd7b80c7bad48ae5e5cf1",
+    "dhash": "3bbb676861715138",
+    "split": "train",
+    "group": 38
+  },
+  {
+    "path": "sad/image27.jpeg",
+    "label": 1,
+    "input_sha256": "a02e9a69f22de630f31a3ef1ccd6867283c876819503b5a22068c31616ee3621",
+    "dhash": "7173849cc8d34163",
+    "split": "train",
+    "group": 178
+  },
+  {
+    "path": "sad/image28.jpeg",
+    "label": 1,
+    "input_sha256": "92595e810a661a01bf27c9b443eac1e7cb1cfb55223b50759369ee7c2a9eb81b",
+    "dhash": "3d33294d4e5e3d3d",
+    "split": "train",
+    "group": 198
+  },
+  {
+    "path": "sad/image29.jpeg",
+    "label": 1,
+    "input_sha256": "4328044a05095cd7f2569a12bf13a1bf001d3bdfa50db8c22450cb1a517f59dc",
+    "dhash": "1f0f1b9b8d8f1e1e",
+    "split": "train",
+    "group": 13
+  },
+  {
+    "path": "sad/image3.jpeg",
+    "label": 1,
+    "input_sha256": "bb1e6842f727be19453f68d1f6749a18f27145dc24a0418ebf24d7c26a074600",
+    "dhash": "25cbcecec66c31fb",
+    "split": "train",
+    "group": 118
+  },
+  {
+    "path": "sad/image30.png",
+    "label": 1,
+    "input_sha256": "e2fb7454ba495fad947334ca0303bdd9d666e000d1768ff83be66494798c25b7",
+    "dhash": "e2606ed6eedcced2",
+    "split": "val",
+    "group": 163
+  },
+  {
+    "path": "sad/image31.png",
+    "label": 1,
+    "input_sha256": "9492e66dbd394dea71812f188f8d9e8ecbd2ba640f9f9adf2e39e42e3356ae2b",
+    "dhash": "383c3d1c1c76dcec",
+    "split": "val",
+    "group": 221
+  },
+  {
+    "path": "sad/image32.png",
+    "label": 1,
+    "input_sha256": "dd2eb8c0caca08da5a3d57c0b0a51d535e01c7cca2ea8348fbc3fa4325560bdd",
+    "dhash": "c430ccb2aacc6830",
+    "split": "test",
+    "group": 55
+  },
+  {
+    "path": "sad/image4.jpeg",
+    "label": 1,
+    "input_sha256": "7f667ece2da7dcb374e8dfd57413d939901440496406b3db7d350bf80aafa97a",
+    "dhash": "c333a91f2f7777ba",
+    "split": "train",
+    "group": 108
+  },
+  {
+    "path": "sad/image5.jpeg",
+    "label": 1,
+    "input_sha256": "a0c70bc2850f62dcf349a484dfb9e040c9dfb431b5a56608223998962aab2c27",
+    "dhash": "1879616969693132",
+    "split": "val",
+    "group": 93
+  },
+  {
+    "path": "sad/image6.jpeg",
+    "label": 1,
+    "input_sha256": "c11dd05ffc8b74802b0f8f814162160de65445d9774948ef83267fc828fa3c29",
+    "dhash": "3c545b084a8e1d99",
+    "split": "train",
+    "group": 186
+  },
+  {
+    "path": "sad/image7.jpeg",
+    "label": 1,
+    "input_sha256": "0ac37c8cd80b320901a552667b5216be0cbbafdc0e86e55b3d38d33f8f5518bb",
+    "dhash": "6cb3b21292b2b3a6",
+    "split": "train",
+    "group": 115
+  },
+  {
+    "path": "sad/image8.jpeg",
+    "label": 1,
+    "input_sha256": "70fc3fcd94dd230445de28f2b72781a95bcb07fcdb3ae43c3dd443de81bf4f48",
+    "dhash": "b4d9793931330f0f",
+    "split": "val",
+    "group": 180
+  },
+  {
+    "path": "sad/image9.jpeg",
+    "label": 1,
+    "input_sha256": "e47e0541376334004df437569bdf6696700d3f65143ee45d4452d75c66919ff1",
+    "dhash": "aeccfcfcfefef4f0",
+    "split": "train",
+    "group": 154
+  },
+  {
+    "path": "sad/images.jpg",
+    "label": 1,
+    "input_sha256": "83268983dc4e6eb52cf2b25d7284ea025dbd9c7ee5c40f08499cc469ccf88e4d",
+    "dhash": "7266a08202a21212",
+    "split": "train",
+    "group": 39
+  },
+  {
+    "path": "sad/images10.jpg",
+    "label": 1,
+    "input_sha256": "600fb1c5ffb3d74e859cb4044a0d79bf6dc02b51cbf7d8662ceda84db059f5b9",
+    "dhash": "445474b08ada6745",
+    "split": "test",
+    "group": 75
+  },
+  {
+    "path": "sad/images11.jpg",
+    "label": 1,
+    "input_sha256": "322761157daeb448ad96d76b60d6721911846cc5edf224020c552959de2d3d65",
+    "dhash": "dda4f4f4d4929e7f",
+    "split": "val",
+    "group": 71
+  },
+  {
+    "path": "sad/images12.jpg",
+    "label": 1,
+    "input_sha256": "d358ab0404eb93d31618510a77cd39ed157fdc55ae030d7373cd56f0157e27ff",
+    "dhash": "24342e1e0b2f0e30",
+    "split": "train",
+    "group": 64
+  },
+  {
+    "path": "sad/images13.jpg",
+    "label": 1,
+    "input_sha256": "320ef8d7f525c3c48bc290c0c7f4d33a7f464925d5c65e1aba71ee4b429d6553",
+    "dhash": "263c2c2c3c2c8c8d",
+    "split": "train",
+    "group": 174
+  },
+  {
+    "path": "sad/images14.jpg",
+    "label": 1,
+    "input_sha256": "5e26281a5afc44bdbb58d705f6887d0b99a9c7f17114055530a14a6d9ac0db8f",
+    "dhash": "1323236366272622",
+    "split": "val",
+    "group": 113
+  },
+  {
+    "path": "sad/images15.jpg",
+    "label": 1,
+    "input_sha256": "be024a82686d1b5135727fd9c884cbd9a4b6513cc7f3c546d217eae778bff419",
+    "dhash": "da8ae28d854792ec",
+    "split": "train",
+    "group": 217
+  },
+  {
+    "path": "sad/images16.jpg",
+    "label": 1,
+    "input_sha256": "cc0b3194d5595341eed8c608149712d00961f2dd378a6677d0e76e8f45982dcf",
+    "dhash": "7160686869f06931",
+    "split": "train",
+    "group": 201
+  },
+  {
+    "path": "sad/images17.jpg",
+    "label": 1,
+    "input_sha256": "deb2282fc3a7a7a09417bdbf4b292479f368babb3c0bfb4f915364d051b61e02",
+    "dhash": "05965d596be266c8",
+    "split": "train",
+    "group": 139
+  },
+  {
+    "path": "sad/images18.jpg",
+    "label": 1,
+    "input_sha256": "0da2e72b33673d42a623bfc4485477e2998ce58b71202732877a8fc8a1fc1725",
+    "dhash": "6f0f0f460f0f1f3f",
+    "split": "train",
+    "group": 40
+  },
+  {
+    "path": "sad/images19.jpg",
+    "label": 1,
+    "input_sha256": "cf98dfb6b8db3691838985676265cb15654dc6b43d9d1a8d4360103a6fcd1b2d",
+    "dhash": "6337382a15170606",
+    "split": "train",
+    "group": 193
+  },
+  {
+    "path": "sad/images2.jpg",
+    "label": 1,
+    "input_sha256": "a58db100086b54f6318371b9698ffbc155042c1c2fd4f2ea5a9b7afeeb43e292",
+    "dhash": "1d69736367666757",
+    "split": "val",
+    "group": 131
+  },
+  {
+    "path": "sad/images20.jpg",
+    "label": 1,
+    "input_sha256": "6f942800d5f26764d75cd6c75301b059c135f6d53f8214218cfce982431f8a0b",
+    "dhash": "10693119090b0303",
+    "split": "val",
+    "group": 16
+  },
+  {
+    "path": "sad/images22.jpg",
+    "label": 1,
+    "input_sha256": "d23c4776f81c793a3fe3f57c043a459170805a53eb9d6ebf0fd7ccd3292fa8fc",
+    "dhash": "19096533cc2d0307",
+    "split": "train",
+    "group": 151
+  },
+  {
+    "path": "sad/images23.jpg",
+    "label": 1,
+    "input_sha256": "106c641e2411a6bd6f97ea860efe543633284f93570a2a1d3437d3998b4c5e79",
+    "dhash": "a1b1151333931b3f",
+    "split": "train",
+    "group": 50
+  },
+  {
+    "path": "sad/images24.jpg",
+    "label": 1,
+    "input_sha256": "9a9a895a4ecfb8bdb4a4bfd3981f71b3463d5c136f6971ecc03e2052885f3f3d",
+    "dhash": "11270c040c4d0f33",
+    "split": "train",
+    "group": 225
+  },
+  {
+    "path": "sad/images25.jpg",
+    "label": 1,
+    "input_sha256": "2945130ebdcb724fd070ec4f86fde8f45b7ae3eb4a8f0e2394f13c14da1b0c85",
+    "dhash": "1f4f2f0f2e2e1f3e",
+    "split": "train",
+    "group": 62
+  },
+  {
+    "path": "sad/images26.jpg",
+    "label": 1,
+    "input_sha256": "14c596b3e7f4f2973794baa7f9f3143a10574099cb3a836c724b10b5caeb2c9a",
+    "dhash": "3931333331312521",
+    "split": "train",
+    "group": 72
+  },
+  {
+    "path": "sad/images27.jpg",
+    "label": 1,
+    "input_sha256": "b0907a9287387c56e9f575e77cd744c715932b5a9b521fa7fc631baff937540a",
+    "dhash": "2c342c869faf6e6c",
+    "split": "train",
+    "group": 143
+  },
+  {
+    "path": "sad/images28.jpg",
+    "label": 1,
+    "input_sha256": "b14d72b7c95da0c5658a0975f84064f25d35db7c1aa4c8323eb43796fc0366c7",
+    "dhash": "464cc60d0f0f0f0f",
+    "split": "train",
+    "group": 190
+  },
+  {
+    "path": "sad/images29.jpg",
+    "label": 1,
+    "input_sha256": "841b0b86cd48efd51b97de608812f931e1444ba39acc8149543a95a643291a1b",
+    "dhash": "bb97676869615151",
+    "split": "test",
+    "group": 173
+  },
+  {
+    "path": "sad/images3.jpg",
+    "label": 1,
+    "input_sha256": "5cd4c9920300d57e1d3190368019f01ac16441f5d14e76ffbe6dc61de21d3a8d",
+    "dhash": "58d9990c62cb8b3b",
+    "split": "val",
+    "group": 199
+  },
+  {
+    "path": "sad/images30.jpg",
+    "label": 1,
+    "input_sha256": "5902ab09bd1df8707b55a7ad11dc0bd6939988e90148564ffd1dceb18ffe854b",
+    "dhash": "432323b3a7a7b77f",
+    "split": "train",
+    "group": 111
+  },
+  {
+    "path": "sad/images31.jpg",
+    "label": 1,
+    "input_sha256": "d25ec2655c33e817ef01e21a1cec3ce4bbd25715476ad8c140efaf8bd226a044",
+    "dhash": "9390d08141591111",
+    "split": "train",
+    "group": 89
+  },
+  {
+    "path": "sad/images32.jpg",
+    "label": 1,
+    "input_sha256": "e5fe48550adcbbb03fa0eed60bf8541639950c767076430fa5058e0016260dfd",
+    "dhash": "3a3e868786838a8e",
+    "split": "train",
+    "group": 23
+  },
+  {
+    "path": "sad/images33.jpg",
+    "label": 1,
+    "input_sha256": "2c88c5b01ff5e822cc3cb83fc5c547072698f7a7fbbeb985b08391acfc7b47fd",
+    "dhash": "3878f06969e1af05",
+    "split": "test",
+    "group": 205
+  },
+  {
+    "path": "sad/images34.jpg",
+    "label": 1,
+    "input_sha256": "14faad3d8a38717c47a2d4dbd1a66b954f2a9da416448aacbc8c7cd907511830",
+    "dhash": "d434199d998b4726",
+    "split": "train",
+    "group": 8
+  },
+  {
+    "path": "sad/images35.jpg",
+    "label": 1,
+    "input_sha256": "c62cdf3cf9e82ecc176d149c1e23091d41f5e1aebf2aa35cc464af2b04b9e116",
+    "dhash": "8b97533333333131",
+    "split": "train",
+    "group": 35
+  },
+  {
+    "path": "sad/images36.jpg",
+    "label": 1,
+    "input_sha256": "c2ab4e64a896b721b794dbcbd042583dc8d23a45e774dd1a5ee11041edc44838",
+    "dhash": "c97dffff7d7e3e2e",
+    "split": "val",
+    "group": 231
+  },
+  {
+    "path": "sad/images37.jpg",
+    "label": 1,
+    "input_sha256": "a6d25096bb65cff25f71cfe5cb8d8d0147fb2792f82ce4e349bbee63b4344817",
+    "dhash": "d9861639c5cc7533",
+    "split": "train",
+    "group": 228
+  },
+  {
+    "path": "sad/images38.jpg",
+    "label": 1,
+    "input_sha256": "c699fb8271001ba12b3f300fde5ed862d2e542945256f20658a927449b20227a",
+    "dhash": "0d001026661b9d34",
+    "split": "train",
+    "group": 210
+  },
+  {
+    "path": "sad/images39.jpg",
+    "label": 1,
+    "input_sha256": "12471d7db1155c19ac0a8b4ebf2da46efcb1c48cc38ae08dbd573159ad3c8b09",
+    "dhash": "8b8fe761736062b0",
+    "split": "val",
+    "group": 192
+  },
+  {
+    "path": "sad/images4.jpg",
+    "label": 1,
+    "input_sha256": "c285cf3d9fa40f1c3a5b4533a62b426c6a3d8f4b38dff44aee0e909a46395a45",
+    "dhash": "a0b89b8eaeac98c0",
+    "split": "val",
+    "group": 105
+  },
+  {
+    "path": "sad/images40.jpg",
+    "label": 1,
+    "input_sha256": "d0f970fc06b1134b2b8cc39552102563e719e8e0fd717fdc318813d4af5803c2",
+    "dhash": "87e3eb64e6e5e1f2",
+    "split": "train",
+    "group": 56
+  },
+  {
+    "path": "sad/images41.jpg",
+    "label": 1,
+    "input_sha256": "5a38521ea597cac11485dec322d3cc479a5ce24185082207a56dc07f130e6d83",
+    "dhash": "0e0edeb91cd2d92a",
+    "split": "train",
+    "group": 158
+  },
+  {
+    "path": "sad/images42.jpg",
+    "label": 1,
+    "input_sha256": "9c191ad6d3c6f52cd1b27371aaa75894beb7d0dfd91fc864beebf2081d136674",
+    "dhash": "ecec78781c1e1e1c",
+    "split": "train",
+    "group": 160
+  },
+  {
+    "path": "sad/images43.jpg",
+    "label": 1,
+    "input_sha256": "6bc2b86ee53c6a853230ba60d397310347617c98f1edece19dfde6c0151c597c",
+    "dhash": "0b33917171733030",
+    "split": "train",
+    "group": 144
+  },
+  {
+    "path": "sad/images44.jpg",
+    "label": 1,
+    "input_sha256": "6d2bf309254e11b5489d01a0d626ce8d621c39d1df9b617234b817cf8616e2a7",
+    "dhash": "6c6c747879793931",
+    "split": "train",
+    "group": 19
+  },
+  {
+    "path": "sad/images45.jpg",
+    "label": 1,
+    "input_sha256": "02a6195188b0f12127849547fef3ac84161130e4eddf063841b6bfa0aafa0587",
+    "dhash": "803231c9c95b4e0c",
+    "split": "val",
+    "group": 61
+  },
+  {
+    "path": "sad/images46.jpg",
+    "label": 1,
+    "input_sha256": "38eda9de6266e58c4698732167af3302b6ba045dd67d703d4996bb3e609a2fdb",
+    "dhash": "5dd8f9f8fcecece0",
+    "split": "train",
+    "group": 197
+  },
+  {
+    "path": "sad/images47.jpg",
+    "label": 1,
+    "input_sha256": "09f64feab7bba52cb9a0316536832e37c3b3d891f9e39ee92d7429f073095812",
+    "dhash": "37ae989a8f8fcc70",
+    "split": "test",
+    "group": 12
+  },
+  {
+    "path": "sad/images48.jpg",
+    "label": 1,
+    "input_sha256": "725dd7bb87644262096cdbea5fd16605fb13808ed2a0e968986d850c3825271c",
+    "dhash": "8cbcec4c54547636",
+    "split": "train",
+    "group": 32
+  },
+  {
+    "path": "sad/images49.jpg",
+    "label": 1,
+    "input_sha256": "04e6d90220bc3279accee7f28032b2c1f5df0c584449a38e6dbc4b9c73242078",
+    "dhash": "33130b2727272707",
+    "split": "train",
+    "group": 232
+  },
+  {
+    "path": "sad/images5.jpg",
+    "label": 1,
+    "input_sha256": "9f1ce51f3f84fc98e872f0a19b95b97aa3fc0b6a1c824ca892d4fae2aded51b3",
+    "dhash": "f0f0704d4dccccf0",
+    "split": "train",
+    "group": 207
+  },
+  {
+    "path": "sad/images50.jpg",
+    "label": 1,
+    "input_sha256": "e4d229e341d33f6f4ca3971d86d886db10e0f2f4f4f778ea087594b11bcd8098",
+    "dhash": "79707c7464743839",
+    "split": "train",
+    "group": 88
+  },
+  {
+    "path": "sad/images51.jpg",
+    "label": 1,
+    "input_sha256": "e53b9d620db764e12a2a7893e2b2b4959c2e090c1f1f0db078e1a42975b1fbd3",
+    "dhash": "333373333333131f",
+    "split": "test",
+    "group": 117
+  },
+  {
+    "path": "sad/images52.jpg",
+    "label": 1,
+    "input_sha256": "24905d61add970d3e37bb83a7ec7f8ef389f56ab096a1667e0fca78352037608",
+    "dhash": "af0f1b29e96dd7a3",
+    "split": "train",
+    "group": 195
+  },
+  {
+    "path": "sad/images6.jpg",
+    "label": 1,
+    "input_sha256": "019887c873c1e36d38903cf2e9d99d1b680383b69d08ad4ed2ad01cf2f13e050",
+    "dhash": "cc6961218de3e3cb",
+    "split": "train",
+    "group": 170
+  },
+  {
+    "path": "sad/images7.jpg",
+    "label": 1,
+    "input_sha256": "33bae1f08874b2a68a288f247a78338c4a0e07da73c985a926d583f04a7f1bcc",
+    "dhash": "6b1e172b0f0f0f0d",
+    "split": "train",
+    "group": 70
+  },
+  {
+    "path": "sad/images8.jpg",
+    "label": 1,
+    "input_sha256": "d2cab09b0f899be9eaf38e46fb22fa98f25e5c28e523c47591500fc24bc52c95",
+    "dhash": "45436703372626c6",
+    "split": "train",
+    "group": 0
+  },
+  {
+    "path": "sad/images9.jpg",
+    "label": 1,
+    "input_sha256": "dc3fb006b2a4f7b18934069a99d31f1d4e7fc6f283c5c6415635510f6c997474",
+    "dhash": "b3321a8c998e8c8c",
+    "split": "train",
+    "group": 209
+  },
+  {
+    "path": "sad/isolated-girl-crying-over-makeup-sad-person-concept-isolated-white-174239618.jpg",
+    "label": 1,
+    "input_sha256": "ebae8918d63e2a6e2b17abbd3048946318a813794832959376a7965d9af41f4c",
+    "dhash": "dac4ec2030386938",
+    "split": "train",
+    "group": 97
+  },
+  {
+    "path": "sad/iStock-174971863.jpg",
+    "label": 1,
+    "input_sha256": "31e6c98ae1857750d786fd17988641a24b49a543ab3dbfa3ba7646274ed1c807",
+    "dhash": "87e3eb64e6e5e1f2",
+    "split": "train",
+    "group": 56
+  },
+  {
+    "path": "sad/iStock_000001932580XSmall.jpg",
+    "label": 1,
+    "input_sha256": "bc197e93211db9f40985934dae757a061a2ad8d954414d301f3172813c85dd95",
+    "dhash": "803231c9c95b4e0c",
+    "split": "val",
+    "group": 61
+  },
+  {
+    "path": "sad/landscape-4209944_1280.jpg",
+    "label": 1,
+    "input_sha256": "d21ce97c5cdad04f9d47645febf357a1f41c7d877ae77626cd7569aa525a2170",
+    "dhash": "8360000203018280",
+    "split": "test",
+    "group": 187
+  },
+  {
+    "path": "sad/Make-someone-sad-happy.jpg",
+    "label": 1,
+    "input_sha256": "eee6535ba30001ddd7513600ba20a934e62ea484381497d2edb86d6e7a10cde3",
+    "dhash": "b97a3b3333370f0f",
+    "split": "train",
+    "group": 218
+  },
+  {
+    "path": "sad/maxresdefault.jpg",
+    "label": 1,
+    "input_sha256": "3c89548f348c85c548f29dcf423fa0e5d13860b1cc99f73aceae6331cdf019eb",
+    "dhash": "4c4c4c184c4c4c4c",
+    "split": "val",
+    "group": 36
+  },
+  {
+    "path": "sad/maxresdefault2.jpg",
+    "label": 1,
+    "input_sha256": "807d17b9248d695a42a83d630beeb493e8f0faa2effaf4587225f0f7864c08f7",
+    "dhash": "464e4d4c8c8c9c00",
+    "split": "val",
+    "group": 208
+  },
+  {
+    "path": "sad/maxresdefault3.jpg",
+    "label": 1,
+    "input_sha256": "13cc9b8757383a84ed983cf338e553a0d9e652f08cc4e8118d776159b289d98f",
+    "dhash": "1d1696969e6e6c64",
+    "split": "train",
+    "group": 176
+  },
+  {
+    "path": "sad/maxresdefault4.jpg",
+    "label": 1,
+    "input_sha256": "1d200cba8eeeee849b803228df02ee315bf4537822ff629172b720986ddfe850",
+    "dhash": "860e4a1a1e1e9c4a",
+    "split": "train",
+    "group": 141
+  },
+  {
+    "path": "sad/original.jpg",
+    "label": 1,
+    "input_sha256": "16f16b533188f2af4920ca804b7e94e0e796aeea0923afd7cbe721646adc6b84",
+    "dhash": "cd9d8b8d858f1634",
+    "split": "test",
+    "group": 153
+  },
+  {
+    "path": "sad/pablo-varela-311608.jpg",
+    "label": 1,
+    "input_sha256": "0a64f31609b09e69c62d3552011ca7d9bc3a06bdfeb5880fadcae7b81a6475d6",
+    "dhash": "39393139393b37b6",
+    "split": "train",
+    "group": 82
+  },
+  {
+    "path": "sad/person-super-depressed.jpg",
+    "label": 1,
+    "input_sha256": "c4f863f7c40532680a273f147e67ae48c04f62caa7e5c20909a3bfc370217a74",
+    "dhash": "8fc7cf4f4f67af8f",
+    "split": "train",
+    "group": 45
+  },
+  {
+    "path": "sad/running-mascara.jpg",
+    "label": 1,
+    "input_sha256": "b1df06dd5ce3f0a4854a0ca7d249c0edf523b199c7e4e2ee8cf941b15b514723",
+    "dhash": "1c15171f4d1f1f0f",
+    "split": "train",
+    "group": 30
+  },
+  {
+    "path": "sad/sad-big-SS.jpg",
+    "label": 1,
+    "input_sha256": "82aa7f1ac991d90a6ec2dcf5e3875c548b2dddd71349568d2719fbfecd6fafce",
+    "dhash": "3183919081411911",
+    "split": "train",
+    "group": 78
+  },
+  {
+    "path": "sad/sad-depressed-man.jpg",
+    "label": 1,
+    "input_sha256": "e329bba73a6f6df2e1a10a75ccc14904645e2acffe059996d0aa269d94bc16af",
+    "dhash": "decaea3c392b3b33",
+    "split": "val",
+    "group": 48
+  },
+  {
+    "path": "sad/sad-group-people-problems-17033671.jpg",
+    "label": 1,
+    "input_sha256": "74b2cfc509f194bddb7a73a7d823dae44b822fa828c7637cb71c1dab44ed8146",
+    "dhash": "cec686cee6caca8a",
+    "split": "train",
+    "group": 127
+  },
+  {
+    "path": "sad/sad-human-figure-depression-concept-drawing-frank-ramspott.jpg",
+    "label": 1,
+    "input_sha256": "5dbda01cc84293e91f34544a675fcc2dfcbd94cc9a3c33d69d5cc9b7abd4bb59",
+    "dhash": "e0e4e0c4f0f098a0",
+    "split": "train",
+    "group": 145
+  },
+  {
+    "path": "sad/sad-looking-man.jpg",
+    "label": 1,
+    "input_sha256": "9670614b4254cc5982ea911257372d883e5c0cd084a2cca39177df586a61f391",
+    "dhash": "272333361d9b991c",
+    "split": "train",
+    "group": 107
+  },
+  {
+    "path": "sad/sad-more-money.jpg",
+    "label": 1,
+    "input_sha256": "9e7ffe2aedf69d10cb124290c73b13f33e128cf91ed87b0d585fc5ec0600dd0b",
+    "dhash": "d434199d998b4726",
+    "split": "train",
+    "group": 8
+  },
+  {
+    "path": "sad/Sad-People-Bad-People-Luckie-1050x700.jpg",
+    "label": 1,
+    "input_sha256": "7a5520fd84081f317151921d27052a4a6dbd79f89ae1accbd77bbc2365d2bb7b",
+    "dhash": "d8f0ecc4d4d5c1c1",
+    "split": "val",
+    "group": 6
+  },
+  {
+    "path": "sad/sad-people-icon-2CCHXB2.jpg",
+    "label": 1,
+    "input_sha256": "e9460768442f2a7f84672f9065f643403c757fbd7dd956d6e30da149a17f02da",
+    "dhash": "cc30ccb2aacc6830",
+    "split": "test",
+    "group": 55
+  },
+  {
+    "path": "sad/sad-people-png-favpng-XVec9sHvxbuQCQm0RmGgQx3bA.jpg",
+    "label": 1,
+    "input_sha256": "62f9e3f0a978423de46ef9e0b4f619183160b258f0b550ad094648ca16568b60",
+    "dhash": "1c181818191a0400",
+    "split": "train",
+    "group": 134
+  },
+  {
+    "path": "sad/sad-people-vector-2153909.jpg",
+    "label": 1,
+    "input_sha256": "69be03ee13cbe20ac05bf8b91d1be01f1cdcfa280f44627709594ef502cc51b5",
+    "dhash": "693a2a2aabaa9afa",
+    "split": "train",
+    "group": 136
+  },
+  {
+    "path": "sad/sad-people-vector-26812552.jpg",
+    "label": 1,
+    "input_sha256": "df103e34dc94e4be776794916d3f90e9d3a8b38935a52876b75f079df86224c0",
+    "dhash": "71242828f1d0f979",
+    "split": "train",
+    "group": 26
+  },
+  {
+    "path": "sad/sad-people.jpg",
+    "label": 1,
+    "input_sha256": "fa249f1574239ac4c4736a0547f85892ec5565272a28c7e1552e8a623a0020cb",
+    "dhash": "0f0f2f0f2e2e1f3e",
+    "split": "train",
+    "group": 62
+  },
+  {
+    "path": "sad/sad-person-concept-vector-26538685.jpg",
+    "label": 1,
+    "input_sha256": "8d944ef63538b0b1fd8fa047bf5b7dc0636c1ff06751b5b7dc991b2bf749ba5d",
+    "dhash": "7160e86868f06970",
+    "split": "test",
+    "group": 135
+  },
+  {
+    "path": "sad/sad-talks-for-sad-people-fb13.png",
+    "label": 1,
+    "input_sha256": "9e90ef792ed997623267a271add90213945b156000bdc3738ad7585b865c6986",
+    "dhash": "0e0e0e0e0e0e0606",
+    "split": "train",
+    "group": 69
+  },
+  {
+    "path": "sad/sad-woman.jpg",
+    "label": 1,
+    "input_sha256": "fa7bba9169d21301d380f38d1955e92685f081b6fc9b1d228a58a494e99d3826",
+    "dhash": "c7cece9e1e1c3c3e",
+    "split": "train",
+    "group": 123
+  },
+  {
+    "path": "sad/SAD.jpg",
+    "label": 1,
+    "input_sha256": "868e5e3361f3e8fe9bfa810d76aa73bb401e0b0357d93b8b556b99e6edc0f383",
+    "dhash": "8b97533333333131",
+    "split": "train",
+    "group": 35
+  },
+  {
+    "path": "sad/sadness-inside-out-today-main-tease-191018.jpg",
+    "label": 1,
+    "input_sha256": "913bc2199343baaf20c0097c9af148f4d08afba0f3d975344aba0dfa26bb6e90",
+    "dhash": "1e1f1d4d5dc8f8d0",
+    "split": "train",
+    "group": 168
+  },
+  {
+    "path": "sad/sadness.jpg",
+    "label": 1,
+    "input_sha256": "4ce77550b407059e9ad965cbdcb8bc477eb0f6d08fbd9431921d57b8e7212b46",
+    "dhash": "90e86426352d1d8f",
+    "split": "val",
+    "group": 150
+  },
+  {
+    "path": "sad/screen-shot-2014-07-31-at-6-09-12-pm.png",
+    "label": 1,
+    "input_sha256": "da1ce744552e989596e386189940a31faf06b8c280de96a76501ba8532fdf932",
+    "dhash": "05436703372626c6",
+    "split": "train",
+    "group": 0
+  },
+  {
+    "path": "sad/smiling-man-crowd-sad-people-vector-58533122.jpg",
+    "label": 1,
+    "input_sha256": "6b442d562709c1745375e6f798764b859ad0f981648c1bad057b2ca41090fc78",
+    "dhash": "9a89292dd5d1a4ac",
+    "split": "train",
+    "group": 156
+  },
+  {
+    "path": "sad/vh6to.jpg",
+    "label": 1,
+    "input_sha256": "330217c60fec7c8c4192c0a2fc1c2eb7916c1cb3d060a0da8c77f6a376f62b91",
+    "dhash": "37ae989a8f8fcc70",
+    "split": "test",
+    "group": 12
+  }
+]

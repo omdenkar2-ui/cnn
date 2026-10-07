@@ -1,0 +1,43 @@
+{
+  "class_names": [
+    "happy",
+    "sad"
+  ],
+  "positive_class": "sad",
+  "threshold": 0.5,
+  "decision_rule": "score > threshold",
+  "image_size": 128,
+  "input_dtype": "uint8",
+  "color_mode": "RGB",
+  "resize": "Pillow bilinear",
+  "exif_orientation": "transpose",
+  "normalization": "Rescaling(1/255) inside model",
+  "seed": 42,
+  "batch_size": 16,
+  "max_epochs": 30,
+  "epochs_completed": 14,
+  "best_epoch": 7,
+  "parameters": 813041,
+  "near_duplicate_distance": 3,
+  "split_counts": {
+    "train": {
+      "happy": 107,
+      "sad": 105
+    },
+    "val": {
+      "happy": 30,
+      "sad": 30
+    },
+    "test": {
+      "happy": 15,
+      "sad": 15
+    }
+  },
+  "python": "3.12.14",
+  "tensorflow": "2.20.0",
+  "numpy": "2.5.3",
+  "training_seconds": 44.22,
+  "checkpoint_contents": "architecture and weights; optimizer state omitted",
+  "checkpoint_sha256": "ef339d95bb1adfbf27047936cae03159768f6fdf5bf14e2b7eab78efc9ebdd31",
+  "source_commit": "ecbc2b219606c4153bdec47cd07f6ab00652c6d6"
+}

@@ -1,0 +1,22 @@
+{
+  "TP": 14,
+  "TN": 10,
+  "FP": 5,
+  "FN": 1,
+  "accuracy": 0.8,
+  "precision": 0.7368421052631579,
+  "recall": 0.9333333333333333,
+  "f1": 0.8235294117647058,
+  "majority_baseline_accuracy": 0.5,
+  "test_examples": 30,
+  "confusion_matrix": [
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      14
+    ]
+  ]
+}

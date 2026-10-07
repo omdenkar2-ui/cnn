@@ -1,0 +1,17 @@
+{
+  "skipped": [],
+  "duplicates": [
+    {
+      "path": "sad/images21.jpg",
+      "same_as": "sad/image8.jpeg"
+    }
+  ],
+  "conflicting_inputs": [
+    {
+      "path": "sad/ADea4I4CgV4-hlxUOAdFjyNYonWRHO6Pu4jWXKk9BJScXws64-c-mo.jpg",
+      "other_path": "happy/ADea4I4CgV4-hlxUOAdFjyNYonWRHO6Pu4jWXKk9BJScXws64-c-mo.jpg",
+      "input_sha256": "9aed755368e49f2b392839123db64529e8e2313b2e8a7fff24b0112e31428126"
+    }
+  ],
+  "conflict_policy": "exclude"
+}

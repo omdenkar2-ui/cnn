@@ -1,0 +1,302 @@
+[
+  {
+    "path": "happy/170404-happy-workers-feature.jpg",
+    "label": 0,
+    "input_sha256": "7e078ed6a0e50ca346786836704f2a740afcc5fec344b3dfdbd3741abe48dd8d",
+    "dhash": "a9a9a969e9c45633",
+    "split": "test",
+    "group": 216,
+    "score": 0.7527984380722046,
+    "prediction": "sad"
+  },
+  {
+    "path": "happy/1920px-face-smile.svg_.png.jpg",
+    "label": 0,
+    "input_sha256": "a1d4e9a54c4fd2d39d1fbfd7f676f86582b6e14d760c3ef334de4bbf11b1e29e",
+    "dhash": "d4f0c8c48aaaaae8",
+    "split": "test",
+    "group": 47,
+    "score": 0.8092638254165649,
+    "prediction": "sad"
+  },
+  {
+    "path": "happy/blog_image_20180219221810890.jpg",
+    "label": 0,
+    "input_sha256": "a25e1c4fc7144aafc0fe5e3b2a760cc37099215467b05a03e66a2dc7ce36539c",
+    "dhash": "b9db9a9c9c9503ab",
+    "split": "test",
+    "group": 65,
+    "score": 0.14023911952972412,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/brady-bunch-3.jpg",
+    "label": 0,
+    "input_sha256": "0cd2fc888ced31b899ae8c62878088c80d8d901d85e8a38bbf32510f0eb3a5db",
+    "dhash": "caf29cb8e4e4f072",
+    "split": "test",
+    "group": 200,
+    "score": 0.41605883836746216,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/getty_478389113_970647970450091_99776.jpg",
+    "label": 0,
+    "input_sha256": "e3ee1e9055fb13727b18f74a734aa2c109e8b04deaed220a51f351d7355eb477",
+    "dhash": "070f2d2d290f0707",
+    "split": "test",
+    "group": 27,
+    "score": 0.11603658646345139,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/HAPPY-PEOPLE-CLUB-LOGO.jpg",
+    "label": 0,
+    "input_sha256": "842c84d0bf3d083cc417ac86411c1756ba4bbfdfaabb5333eaa74c16cf598d24",
+    "dhash": "043269c4b8792400",
+    "split": "test",
+    "group": 149,
+    "score": 0.04427335783839226,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/happy-people21.jpg",
+    "label": 0,
+    "input_sha256": "840d20c3f914b6697db3fa31e8bb6ddb91f5cadfa290477033d213099086d9d4",
+    "dhash": "252d252d29090f0f",
+    "split": "test",
+    "group": 10,
+    "score": 0.5200710892677307,
+    "prediction": "sad"
+  },
+  {
+    "path": "happy/image.jpeg",
+    "label": 0,
+    "input_sha256": "b1d3f9db31a4b190b3ea4397fafb660a0f6a8086bfd3223f66079ef587e6f52e",
+    "dhash": "001f5f1a9a93170f",
+    "split": "test",
+    "group": 129,
+    "score": 0.009407268837094307,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/image17.jpeg",
+    "label": 0,
+    "input_sha256": "1f4ae7b4bc6d0a9233ccef0467eef7b560378d76e93400c0f8406925a94a1e80",
+    "dhash": "7455567652524a29",
+    "split": "test",
+    "group": 104,
+    "score": 0.19743287563323975,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/image2.jpeg",
+    "label": 0,
+    "input_sha256": "e358bc4c65eb28e4bef14cc2e22f748e12b7b564f14407b2d125c42ce26fca99",
+    "dhash": "4949c9cedbd3f273",
+    "split": "test",
+    "group": 172,
+    "score": 0.1676204949617386,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/image20.jpeg",
+    "label": 0,
+    "input_sha256": "82528b06360c376f440d08004452386452fa7d1a52d3be44c699ae5536831e29",
+    "dhash": "b9db9a989c9503ab",
+    "split": "test",
+    "group": 65,
+    "score": 0.14201706647872925,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/image21.jpeg",
+    "label": 0,
+    "input_sha256": "f6da8359bdb484360c50cb7e5a82f015b9358d9d51350c7f4013815c710db804",
+    "dhash": "070f2d2d290f0707",
+    "split": "test",
+    "group": 27,
+    "score": 0.12448026239871979,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/images11.jpg",
+    "label": 0,
+    "input_sha256": "9bf8d83323eb83f488eaf02a1b80741f3d21415e7938230bf5df243159e3f9d6",
+    "dhash": "252d252d29090f0f",
+    "split": "test",
+    "group": 10,
+    "score": 0.5156376361846924,
+    "prediction": "sad"
+  },
+  {
+    "path": "happy/images16.jpg",
+    "label": 0,
+    "input_sha256": "cc8a3c4b1bad5d6315fa0179ba2166051f415fc6481eddb9c3d6e6eae1baa865",
+    "dhash": "0c1c1c0df57f3f3f",
+    "split": "test",
+    "group": 86,
+    "score": 0.41163718700408936,
+    "prediction": "happy"
+  },
+  {
+    "path": "happy/images19.jpg",
+    "label": 0,
+    "input_sha256": "ec90d44901b7a59e7f7f4e3d9fa1007c241ebfc5ea742fd7afe128813016829f",
+    "dhash": "d4f0c8c48aaaaae8",
+    "split": "test",
+    "group": 47,
+    "score": 0.7926768660545349,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/b2ap3_large_happy-sad-unsplash-850x575.jpg",
+    "label": 1,
+    "input_sha256": "71663fdbb5c85a58bce6f9cd784c4b00b04b8db5b41f134ba6e74b345c72d596",
+    "dhash": "071f1f968f0f0c0e",
+    "split": "test",
+    "group": 34,
+    "score": 0.9738332629203796,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/crying-at-work.jpg",
+    "label": 1,
+    "input_sha256": "b86579653412482daaeade7185cb1f8fe4487f468891e85a73a61d5b35e60874",
+    "dhash": "37303a7230383232",
+    "split": "test",
+    "group": 101,
+    "score": 0.5965328216552734,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/Depression-More-Than-Being-Sad.jpg",
+    "label": 1,
+    "input_sha256": "2ea88da7e0bbcf28b82c80593a47946f960115a04ea54c5b1692adba68433259",
+    "dhash": "2621438383979ecb",
+    "split": "test",
+    "group": 227,
+    "score": 0.6032455563545227,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/image16.jpeg",
+    "label": 1,
+    "input_sha256": "6c3b1ed41619daea054940bab8cb8ce1a55b92bf4361eb97796cd4799c4aebc0",
+    "dhash": "071f1f968f0f0c0e",
+    "split": "test",
+    "group": 34,
+    "score": 0.9740069508552551,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/image32.png",
+    "label": 1,
+    "input_sha256": "dd2eb8c0caca08da5a3d57c0b0a51d535e01c7cca2ea8348fbc3fa4325560bdd",
+    "dhash": "c430ccb2aacc6830",
+    "split": "test",
+    "group": 55,
+    "score": 0.5826892852783203,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/images10.jpg",
+    "label": 1,
+    "input_sha256": "600fb1c5ffb3d74e859cb4044a0d79bf6dc02b51cbf7d8662ceda84db059f5b9",
+    "dhash": "445474b08ada6745",
+    "split": "test",
+    "group": 75,
+    "score": 0.2642933130264282,
+    "prediction": "happy"
+  },
+  {
+    "path": "sad/images29.jpg",
+    "label": 1,
+    "input_sha256": "841b0b86cd48efd51b97de608812f931e1444ba39acc8149543a95a643291a1b",
+    "dhash": "bb97676869615151",
+    "split": "test",
+    "group": 173,
+    "score": 0.7627976536750793,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/images33.jpg",
+    "label": 1,
+    "input_sha256": "2c88c5b01ff5e822cc3cb83fc5c547072698f7a7fbbeb985b08391acfc7b47fd",
+    "dhash": "3878f06969e1af05",
+    "split": "test",
+    "group": 205,
+    "score": 0.5209780931472778,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/images47.jpg",
+    "label": 1,
+    "input_sha256": "09f64feab7bba52cb9a0316536832e37c3b3d891f9e39ee92d7429f073095812",
+    "dhash": "37ae989a8f8fcc70",
+    "split": "test",
+    "group": 12,
+    "score": 0.557516872882843,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/images51.jpg",
+    "label": 1,
+    "input_sha256": "e53b9d620db764e12a2a7893e2b2b4959c2e090c1f1f0db078e1a42975b1fbd3",
+    "dhash": "333373333333131f",
+    "split": "test",
+    "group": 117,
+    "score": 0.7241535186767578,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/landscape-4209944_1280.jpg",
+    "label": 1,
+    "input_sha256": "d21ce97c5cdad04f9d47645febf357a1f41c7d877ae77626cd7569aa525a2170",
+    "dhash": "8360000203018280",
+    "split": "test",
+    "group": 187,
+    "score": 0.5336593389511108,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/original.jpg",
+    "label": 1,
+    "input_sha256": "16f16b533188f2af4920ca804b7e94e0e796aeea0923afd7cbe721646adc6b84",
+    "dhash": "cd9d8b8d858f1634",
+    "split": "test",
+    "group": 153,
+    "score": 0.7638446688652039,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/sad-people-icon-2CCHXB2.jpg",
+    "label": 1,
+    "input_sha256": "e9460768442f2a7f84672f9065f643403c757fbd7dd956d6e30da149a17f02da",
+    "dhash": "cc30ccb2aacc6830",
+    "split": "test",
+    "group": 55,
+    "score": 0.5821307301521301,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/sad-person-concept-vector-26538685.jpg",
+    "label": 1,
+    "input_sha256": "8d944ef63538b0b1fd8fa047bf5b7dc0636c1ff06751b5b7dc991b2bf749ba5d",
+    "dhash": "7160e86868f06970",
+    "split": "test",
+    "group": 135,
+    "score": 0.5338459014892578,
+    "prediction": "sad"
+  },
+  {
+    "path": "sad/vh6to.jpg",
+    "label": 1,
+    "input_sha256": "330217c60fec7c8c4192c0a2fc1c2eb7916c1cb3d060a0da8c77f6a376f62b91",
+    "dhash": "37ae989a8f8fcc70",
+    "split": "test",
+    "group": 12,
+    "score": 0.5647546052932739,
+    "prediction": "sad"
+  }
+]
