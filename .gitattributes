@@ -5,4 +5,7 @@
 *.json text eol=lf
 *.ipynb text eol=lf
 *.keras binary
+*.pt binary
+*.csv text eol=lf
 *.png binary
+artifacts/** linguist-generated=true

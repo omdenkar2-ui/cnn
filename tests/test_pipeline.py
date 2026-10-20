@@ -3,6 +3,7 @@ import json
 import numpy as np
 import pytest
 from PIL import Image
+pytest.importorskip("tensorflow", reason="Install requirements-legacy.txt for the v1 tests.")
 from image_classifier.data import read_rgb, scan_dataset, split_rows
 from image_classifier.train import binary_metrics, train
 from image_classifier.predict import predict

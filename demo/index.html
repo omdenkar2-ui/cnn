@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>CNN · Expression lab</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <a class="brand" href="/" aria-label="CNN home"><span class="brand-mark">c</span> cnn<span class="version">/ v2</span></a>
+      <a class="source" href="https://github.com/omdenkar2-ui/cnn" target="_blank" rel="noopener">Explore the code <span aria-hidden="true">↗</span></a>
+    </header>
+    <main>
+      <div class="intro">
+        <p class="eyebrow"><span class="dot"></span> COMPUTER VISION · LOCAL DEMO</p>
+        <h1>A small CNN.<br>A closer look at expression.</h1>
+        <p class="lead">Explore a MobileNetV3 trained to distinguish <strong>happy</strong> and <strong>sad</strong> visual expressions in cropped face images.</p>
+      </div>
+      <div class="workspace">
+        <section class="upload-panel" aria-labelledby="upload-title">
+          <div class="panel-heading"><span class="step">01</span><h2 id="upload-title">Bring a face into focus</h2><span class="pill">On your device</span></div>
+          <label id="dropzone" class="dropzone" for="file">
+            <input id="file" type="file" accept="image/jpeg,image/png,image/webp" aria-describedby="upload-help">
+            <span id="empty">
+              <svg class="face-icon" viewBox="0 0 100 100" fill="none" aria-hidden="true"><path d="M15 32V16h16M69 16h16v16M85 68v16H69M31 84H15V68" stroke="currentColor" stroke-width="2"/><ellipse cx="50" cy="49" rx="23" ry="27" stroke="currentColor" stroke-width="2"/><circle cx="42" cy="45" r="2" fill="currentColor"/><circle cx="58" cy="45" r="2" fill="currentColor"/><path d="M41 59q9 8 18 0" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              <strong>Drop a face crop here</strong><span>or click to choose an image</span><small>JPG, PNG or WebP · up to 10 MB</small>
+            </span>
+            <img id="preview" alt="Your selected face crop" hidden>
+          </label>
+          <p id="upload-help" class="hint">One face, cropped closely. Full scenes and group photos are outside this model’s training domain. This demo does not detect or crop faces.</p>
+          <div class="actions"><button id="analyze" disabled>Classify expression <span aria-hidden="true">→</span></button><button id="reset" class="quiet" hidden>Clear image</button></div>
+          <p id="error" class="error" role="alert" hidden></p>
+        </section>
+        <section class="result-panel" aria-labelledby="result-title">
+          <div class="panel-heading"><span class="step">02</span><h2 id="result-title">Read the prediction</h2></div>
+          <div id="result" aria-live="polite">
+            <p class="result-kicker">MODEL OUTPUT</p>
+            <h3 id="label">Ready when you are.</h3>
+            <p id="status" class="status">Upload a cropped face to see the model’s two class scores.</p>
+            <div class="score"><div><span>Happy</span><strong id="happy-value">—</strong></div><progress id="happy-bar" value="0" max="100" aria-label="Happy class score"></progress></div>
+            <div class="score"><div><span>Sad</span><strong id="sad-value">—</strong></div><progress id="sad-bar" value="0" max="100" aria-label="Sad class score"></progress></div>
+          </div>
+          <div class="note"><span class="note-mark" aria-hidden="true">i</span><p>These are visual labels, not a reading of someone’s feelings. The model always chooses between two classes, even for an unsuitable image.</p></div>
+        </section>
+      </div>
+      <section class="evidence" aria-label="Released model benchmark">
+        <div><strong>91.4<span>%</span></strong><p>Held-out accuracy</p><small>1,469 FER2013 face images</small></div>
+        <div><strong>11,684</strong><p>Training images</p><small>55× the original training set</small></div>
+        <div><strong>1.00<span>M</span></strong><p>Model parameters</p><small>ImageNet → expression fine-tuning</small></div>
+        <div class="evidence-note"><span class="eyebrow">BUILT TO BE INSPECTED</span><p>Weights, split audits, per-image predictions, tests and reproducible results.</p><a href="https://github.com/omdenkar2-ui/cnn/blob/main/MODEL_CARD.md" target="_blank" rel="noopener">Read the model card ↗</a></div>
+      </section>
+    </main>
+    <footer><span>Built by Om Denkar · PyTorch + MobileNetV3</span><span>Uploads stay on this computer. Nothing is saved.</span></footer>
+  </div>
+</body>
+</html>

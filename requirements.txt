@@ -1,4 +1,8 @@
-tensorflow==2.20.0
-numpy>=1.26,<3
-Pillow>=11,<13
-matplotlib>=3.9,<4
+torch==2.6.0
+torchvision==0.21.0
+numpy==2.4.4
+Pillow==11.3.0
+scikit-learn==1.8.0
+matplotlib==3.10.9
+requests==2.32.5
+pyarrow==23.0.1

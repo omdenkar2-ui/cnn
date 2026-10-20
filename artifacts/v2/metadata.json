@@ -1,0 +1,77 @@
+{
+  "architecture": "mobilenet_v3_small_128",
+  "class_names": [
+    "happy",
+    "sad"
+  ],
+  "positive_class": "sad",
+  "image_size": 128,
+  "temperature": 1.1500000953674316,
+  "threshold": 0.5,
+  "preprocessing": "EXIF transpose; grayscale; tensor bilinear resize; ImageNet normalization",
+  "seed": 42,
+  "batch_size": 128,
+  "requested_epochs": 20,
+  "completed_epochs": 16,
+  "best_epoch": 10,
+  "parameters": 1001122,
+  "pretrained_weights": "MobileNet_V3_Small_Weights.IMAGENET1K_V1",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4070 Laptop GPU",
+  "torch": "2.6.0+cu124",
+  "torchvision": "0.21.0+cu124",
+  "python": "3.13.5",
+  "training_seconds": 263.8,
+  "dataset": {
+    "source": "AutumnQiu/fer2013",
+    "revision": "9c0267afc93fa4d4bfc05d7ff1108a04f72e8392",
+    "source_files": [
+      {
+        "file": "data/train-00000-of-00001.parquet",
+        "sha256": "f02d2f0013d424f087325ca802914b955f12d8a4bbb0d0b929defb2fecdf6f9b",
+        "rows": 28709
+      },
+      {
+        "file": "data/valid-00000-of-00001.parquet",
+        "sha256": "3577f5721214e41710069bfeb55768f8e0abe877499f7652c1fa085dcd80f110",
+        "rows": 3589
+      },
+      {
+        "file": "data/test-00000-of-00001.parquet",
+        "sha256": "bed4a9621b660159a30305dace4042b7d602817939e2277d462c63de94f46c14",
+        "rows": 3589
+      }
+    ],
+    "source_label_mapping": {
+      "3": "happy=0",
+      "4": "sad=1"
+    },
+    "selected_before_audit": 15066,
+    "retained": 14690,
+    "removed": 376,
+    "removed_reasons": {
+      "duplicate_cluster": 374,
+      "conflicting_cluster": 2
+    },
+    "counts": {
+      "train": {
+        "sad": 4659,
+        "happy": 7025
+      },
+      "val": {
+        "sad": 648,
+        "happy": 889
+      },
+      "test": {
+        "sad": 591,
+        "happy": 878
+      }
+    },
+    "dataset_sha256": "4fc83148acba915f04972e20fbbdfc37c9d3215800f252f103105ab5dbaa7373",
+    "manifest_sha256": "fbb9988a67d235639b686c0d067b7c07196fee60ba122767a809f088354fad60",
+    "deduplication": "dHash<=2 AND mean pixel error<=8; conflicting clusters excluded; test>val>train"
+  },
+  "checkpoint_sha256": "306c7c867d2e8f19cf83e86162e0f47a22085cacb3da67bf60b2c7e8cac02a5c",
+  "validation_log_loss_before_calibration": 0.2250274121761322,
+  "validation_log_loss_after_calibration": 0.22258566319942474
+}

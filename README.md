@@ -1,124 +1,126 @@
-# CNN Image Classifier
+# CNN · Expression lab
 
-A TensorFlow/Keras classifier inspired by Nicholas Renotte's
-[ImageClassification tutorial](https://github.com/nicknochnack/ImageClassification)
-and [video](https://www.youtube.com/watch?v=jztwpsIzEGc).
-The code here is a new implementation of a similar architecture.
-It trains on two image folders and ships with a trained happy/sad model.
+**A compact face-expression classifier with trained weights, a local demo, and inspectable results.**
 
-The included checkpoint scored **80% accuracy (24/30)** on the held-out reference
-split, versus a **50%** majority baseline. This is a small educational test;
-see [the model card](MODEL_CARD.md) for precision, recall, uncertainty, and data
-limitations. [Training curves](artifacts/reference-run/learning_curves.png) and
-[raw test metrics](artifacts/reference-run/metrics.json) are included.
+[![Tests](https://github.com/omdenkar2-ui/cnn/actions/workflows/tests.yml/badge.svg)](https://github.com/omdenkar2-ui/cnn/actions/workflows/tests.yml)
+![Python](https://img.shields.io/badge/Python-3.13-17342f)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.6-167660)
+![Model](https://img.shields.io/badge/MobileNetV3-1.00M_parameters-17342f)
 
-## Architecture
+Started as a CNN learning project inspired by [Nicholas Renotte’s tutorial](https://github.com/nicknochnack/ImageClassification).
+Version 2 fine-tunes an ImageNet-pretrained MobileNetV3 on **11,684 audited happy/sad face crops**—55× the original training set.
 
-RGB input -> rescale -> training-only horizontal flip -> Conv2D(16) + pool ->
-Conv2D(32) + pool -> Conv2D(16) + pool -> Flatten -> Dense(256) ->
-training-only Dropout(0.3) -> Dense(1, sigmoid).
+**91.4% test accuracy · 0.968 ROC AUC · 1.00M parameters**
 
-Default input resolution is 128 x 128 for practical CPU training. Use `--size 256`
-to match the reference's input dimensions. All convolutions use 3 x 3 kernels,
-valid padding and ReLU. The positive class is the second sorted folder name:
-`happy=0`, `sad=1` for the reference images.
+![Local image upload demo](docs/figures/demo.png)
 
-## Setup
+## What improved?
 
-Use Python 3.12. On Windows PowerShell:
+Both checkpoints were evaluated on the **same 1,469 held-out FER2013 face crops**:
 
-```powershell
-py -3.12 -m venv .venv
-.venv\Scripts\python.exe -m pip install -r requirements.txt
+| Model | Accuracy | Balanced accuracy | Sad-class F1 | ROC AUC |
+|---|---:|---:|---:|---:|
+| Original tutorial-style CNN | 41.1% | 49.9% | 0.564 | 0.512 |
+| Always predict happy | 59.8% | 50.0% | 0.000 | 0.500 |
+| **MobileNetV3 · v2** | **91.4%** | **91.1%** | **0.893** | **0.968** |
+
+The v2 accuracy interval is **89.9–92.7%** (95% Wilson, image-level).
+This is a **two-class, deduplicated subset**, not a seven-class FER2013 result.
+The original model was trained on a different, much smaller dataset: this comparison measures the complete upgrade, not the architecture’s isolated effect.
+
+**Use cropped faces.** On the original 30 full-photo test examples, v2 scores **46.7%**, versus **80.0%** for the original model. This is a domain-specific improvement, not a universal replacement. Both checkpoints remain available. The demo does not detect faces or measure a person’s internal feelings.
+
+![Reproducible evaluation dashboard](docs/figures/benchmark.png)
+
+[Model card](MODEL_CARD.md) · [Experiment details](docs/EXPERIMENTS.md) · [Raw benchmark](artifacts/v2/benchmark.json) · [Per-image predictions](artifacts/v2/test_predictions.csv)
+
+## Try it locally
+
+Use Python **3.13**. From a clone of this repository:
+
+```bash
+git clone https://github.com/omdenkar2-ui/cnn.git
+cd cnn
+python -m venv .venv
 ```
 
-On macOS/Linux, use `python3.12 -m venv .venv` and replace subsequent
-`.venv\Scripts\python.exe` commands with `.venv/bin/python`.
-TensorFlow 2.20 is pinned. Windows native training uses the CPU; supported NVIDIA
-GPU training requires a suitable Linux/WSL2 TensorFlow environment.
+Activate with `.venv\Scripts\Activate.ps1` on Windows PowerShell, or `source .venv/bin/activate` on macOS/Linux.
 
-## Predict with the included model
-
-```powershell
-.venv\Scripts\python.exe -m image_classifier.predict --image "C:\path\to\photo.jpg"
+```bash
+python -m pip install -r requirements.txt
+python -m cnn_v2.demo
 ```
 
-The command loads `artifacts/reference-run/best.keras` and its preprocessing
-metadata, then prints the predicted label and both class scores. Scores are model
-outputs, not independently calibrated confidence estimates. This educational
-dataset's happy/sad visual labels do not establish a person's internal emotions.
+Open **http://127.0.0.1:7860** and upload a closely cropped, single-face JPG, PNG, or WebP.
+Inference works on CPU and needs no download after installation. Uploads stay in memory on your computer.
 
-## Reproduce training
+For a command-line prediction:
 
-```powershell
-.venv\Scripts\python.exe scripts/download_reference.py
-.venv\Scripts\python.exe -m image_classifier.train --data data --output runs/my-run --epochs 30
-.venv\Scripts\python.exe -m image_classifier.predict --run runs/my-run --image data/happy/example.jpg
+```bash
+python -m cnn_v2.predict --image path/to/face.jpg
 ```
 
-Replace `example.jpg` with an actual filename. The downloader retrieves images
-from an immutable upstream commit and verifies their Git blob checksums.
-The dataset is downloaded locally rather than redistributed in this repository.
-The upstream repository does not provide a dataset license; check the image
-rights before using it outside this learning exercise.
+The model returns both class scores and a low-confidence flag. Scores use validation-only temperature scaling; they are not a guarantee of correctness.
+For an interactive walkthrough, open [ImageClassification.ipynb](ImageClassification.ipynb) with a kernel using this environment.
 
-Training writes a checkpoint, metadata, metrics, learning curves, a fixed split
-manifest, a data audit, and test predictions into the selected output directory.
-An existing output directory is rejected to preserve prior runs. Best epoch is
-selected using validation loss; the test split is evaluated afterward at a fixed
-threshold of 0.5.
+## Reproduce the experiment
 
-## Use your own images
+For an NVIDIA GPU compatible with CUDA 12.4, install the matching builds before the other requirements:
 
-Place files under exactly two class folders:
-
-```text
-data/
-  class_a/
-    image1.jpg
-  class_b/
-    image2.jpg
+```bash
+python -m pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+python -m pip install -r requirements.txt
+python -m cnn_v2.dataset
+python -m cnn_v2.train --output runs/my-run --epochs 20
+python -m cnn_v2.evaluate --run runs/my-run
+python -m cnn_v2.predict --run runs/my-run --image path/to/face.jpg
 ```
 
-Use at least 10 readable unique images per class; hundreds of varied examples are
-more useful. Corrupt files are reported and skipped. Identical resized RGB inputs
-are removed within classes. Training excludes all copies of inputs with
-contradictory labels and records them in `data_audit.json`; the low-level scanner
-also supports a strict mode that fails instead. The upstream dataset contains
-such conflicts, so they are not silently assigned an arbitrary label.
-EXIF orientation, RGB conversion, and Pillow bilinear resize are shared by
-training and inference. Rescaling is embedded in the saved model.
+CPU training is supported with `--device cpu`. Downloading the source requires about 136 MB; preparation needs additional disk space. Source files come from a pinned revision and are SHA-256 verified. Existing runs are protected from overwrite.
 
-Before the target 70/20/10 split, perceptually similar images are clustered using
-64-bit difference hashes (default Hamming distance <=3). Clusters stay together,
-so actual ratios can vary. This heuristic cannot detect every repeated person,
-crop, or source. For a subject-independent claim, add source/subject metadata and
-split by those identities before training. This implementation deliberately
-fails if a class is absent from a partition instead of reporting misleading scores.
+The released run took **264 seconds on an RTX 4070 Laptop GPU**: one head warmup epoch, then full fine-tuning; best epoch 10, early stopping at 16. Runtime varies with hardware. See [reproduction notes](docs/EXPERIMENTS.md) for the exact recipe and the original-model comparison.
 
-## Tests
+## Under the hood
 
-```powershell
-.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
-.venv\Scripts\python.exe -m pytest -q
+```mermaid
+flowchart LR
+  A["Face crop"] --> B["Grayscale · resize 128×128"]
+  B --> C["ImageNet normalization"]
+  C --> D["MobileNetV3 Small"]
+  D --> E["576 → 128 → 2"]
+  E --> F["Temperature-scaled scores"]
+  F --> G["Happy / Sad"]
 ```
 
-Tests cover RGB decoding, corrupt-file handling, conflicting duplicates, stable
-cluster memberships, metric arithmetic, and actual one-epoch training with
-checkpoint reload and inference on synthetic images. CI runs the same tests.
+- **More data, audited splits:** 11,684 train / 1,537 validation / 1,469 test; 376 duplicate or conflicting examples removed.
+- **Transfer learning:** pretrained features, a small replacement head, augmentation, AdamW, cosine learning-rate decay, mixed precision, and gradient clipping.
+- **Separated selection and evaluation:** validation loss selects the checkpoint; validation alone fits temperature; the test set is evaluated afterward.
+- **Auditable release:** checkpoint hash, source revision, split manifest, removal log, learning history, confusion matrix, and individual predictions.
+- **Useful tests:** a real optimizer step and save/reload round trip, preprocessing parity, duplicate handling, metric arithmetic, and HTTP upload checks. CI covers Windows and Linux plus the preserved TensorFlow model.
 
-## Notebook and results
+## Verify the release
 
-`ImageClassification.ipynb` provides an interactive walkthrough of download,
-training, saved metrics, and prediction. `MODEL_CARD.md` records the trained
-model's measured results and evaluation limitations. `requirements-lock.txt`
-records the environment used for the shipped model.
+```bash
+python -m pip install -r requirements-dev.txt
+python -m pytest tests/test_v2.py -q
+python scripts/build_report.py --check
+```
 
-To use the notebook, install `jupyterlab` and `ipykernel` in this environment,
-register it with `python -m ipykernel install --user --name cnn-classifier`, and
-select that kernel in JupyterLab or your editor. The command-line workflow needs
-neither package.
+Run `python scripts/build_report.py` to regenerate the chart and benchmark from shipped predictions. This does not retrain or rerun test inference.
 
-References: [TensorFlow installation](https://www.tensorflow.org/install/pip),
-[Keras Conv2D](https://keras.io/api/layers/convolution_layers/convolution2d/),
-[Keras model persistence](https://keras.io/guides/serialization_and_saving/).
+## Project map
+
+| Path | Contents |
+|---|---|
+| `cnn_v2/` | Dataset audit, PyTorch model, training, evaluation, inference, demo server |
+| `demo/` | Accessible local upload interface; no external frontend dependencies |
+| `artifacts/v2/` | Released weights and complete evaluation evidence |
+| `image_classifier/` · `artifacts/reference-run/` | Preserved TensorFlow implementation and checkpoint |
+| `docs/` | Experiment notes, legacy guide, benchmark figures |
+| `tests/` | Model, data, inference, and demo regression checks |
+
+## Credits and data use
+
+The original inspiration is [Nicholas Renotte’s repository](https://github.com/nicknochnack/ImageClassification) and [video](https://www.youtube.com/watch?v=jztwpsIzEGc). The new model uses [TorchVision MobileNetV3 Small](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.mobilenet_v3_small.html) and the [AutumnQiu FER2013 mirror](https://huggingface.co/datasets/AutumnQiu/fer2013).
+
+The dataset mirror does not state an explicit image license. **Raw dataset images are not included**; resolve the relevant rights before redistribution or commercial use. See [NOTICE](NOTICE.md) and the [model card](MODEL_CARD.md). The legacy workflow is documented [here](docs/LEGACY.md).

@@ -1,4 +1,5 @@
 .venv/
+.venv-legacy/
 __pycache__/
 .pytest_cache/
 *.pyc
@@ -7,3 +8,6 @@ runs/
 .ipynb_checkpoints/
 .env
 *.log
+.ruff_cache/
+*.partial
+training_state.pt

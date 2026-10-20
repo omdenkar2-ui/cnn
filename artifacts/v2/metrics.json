@@ -1,0 +1,115 @@
+{
+  "fer2013_test": {
+    "examples": 1469,
+    "accuracy": 0.9142273655547992,
+    "accuracy_ci95_wilson": [
+      0.8988047544243061,
+      0.9274891253791977
+    ],
+    "balanced_accuracy": 0.9105469668412675,
+    "precision_sad": 0.8947368421052632,
+    "recall_sad": 0.8917089678510999,
+    "f1_sad": 0.8932203389830509,
+    "roc_auc": 0.9675234824570532,
+    "log_loss": 0.22557101578184782,
+    "brier_score": 0.06584447521398328,
+    "ece_10_bins": 0.011957386648218937,
+    "confusion_matrix": [
+      [
+        816,
+        62
+      ],
+      [
+        64,
+        527
+      ]
+    ]
+  },
+  "fer2013_test_uncalibrated": {
+    "examples": 1469,
+    "accuracy": 0.9142273655547992,
+    "accuracy_ci95_wilson": [
+      0.8988047544243061,
+      0.9274891253791977
+    ],
+    "balanced_accuracy": 0.9105469668412675,
+    "precision_sad": 0.8947368421052632,
+    "recall_sad": 0.8917089678510999,
+    "f1_sad": 0.8932203389830509,
+    "roc_auc": 0.9675234824570532,
+    "log_loss": 0.22937014639270073,
+    "brier_score": 0.06635872029205277,
+    "ece_10_bins": 0.019223905428169444,
+    "confusion_matrix": [
+      [
+        816,
+        62
+      ],
+      [
+        64,
+        527
+      ]
+    ]
+  },
+  "majority_baseline": {
+    "examples": 1469,
+    "accuracy": 0.5976855003403676,
+    "accuracy_ci95_wilson": [
+      0.5723857835045504,
+      0.6224756326857582
+    ],
+    "balanced_accuracy": 0.5,
+    "precision_sad": 0.0,
+    "recall_sad": 0.0,
+    "f1_sad": 0.0,
+    "roc_auc": 0.5,
+    "log_loss": 14.50088437914788,
+    "brier_score": 0.4023144996596324,
+    "ece_10_bins": 0.4023144996596324,
+    "confusion_matrix": [
+      [
+        878,
+        0
+      ],
+      [
+        591,
+        0
+      ]
+    ]
+  },
+  "legacy_full_image_test": {
+    "examples": 30,
+    "accuracy": 0.4666666666666667,
+    "accuracy_ci95_wilson": [
+      0.30232127224128236,
+      0.6385798671847496
+    ],
+    "balanced_accuracy": 0.4666666666666667,
+    "precision_sad": 0.47058823529411764,
+    "recall_sad": 0.5333333333333333,
+    "f1_sad": 0.5,
+    "roc_auc": 0.4488888888888889,
+    "log_loss": 1.2299491100166295,
+    "brier_score": 0.3847150719651856,
+    "ece_10_bins": 0.37739064640675984,
+    "confusion_matrix": [
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        8
+      ]
+    ]
+  },
+  "latency_cpu": {
+    "median_ms": 24.645999999847845,
+    "p95_ms": 30.823819999568514,
+    "threads": 4,
+    "batch": 1,
+    "warmup": 10,
+    "repeats": 50,
+    "scope": "preprocessed forward pass; excludes image decoding"
+  }
+}
